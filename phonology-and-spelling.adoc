@@ -1,11 +1,13 @@
-== Phonology and spelling
+= Phonology and spelling
 
 [.normal]
 The phonology of Zhongshan Hakka is very similar to that of other Sinitic
 languages. For example, there are contrasting pairs of aspirates and
 unaspirates.
 
-== Initials
+== Consonants and vowels
+
+=== Initials
 
 |===
 2+| | Labial | Alveolar~Palatal | Velar~Glottal
@@ -20,7 +22,7 @@ h| Voiced | v /v/ | |
 2+h| Aproximant | w /w/ | y /j/ |
 |===
 
-== Finals
+=== Finals
 
 |===
 | | Labial | Alveolar~Palatal | Velar
@@ -30,7 +32,7 @@ h| Nasal | m /m/ | n /n/ | ng /ŋ/
 h| Aproximant | u /u̯/ | i /i̯/ |
 |===
 
-== Nuclei
+=== Nuclei
 
 |===
 | Plain | Iotised
@@ -42,7 +44,7 @@ h| Aproximant | u /u̯/ | i /i̯/ |
 | u | iu
 |===
 
-== Observations
+=== Observations
 
 Some noteworthy phonemes or letters:
 
@@ -61,3 +63,16 @@ spelled ⟨z⟩ and not ⟨zi⟩.
 * About ⟨i⟩:
 ** the iotised nuclei are spelled with ⟨y⟩ instead of ⟨i⟩;
 ** with a null initial, /i/ is spelled ⟨yi⟩.
+
+== Tones
+
+There are four tones in Zhongshan Hakka.
+
+|===
+| Name | Representation | IPA
+
+h| High | ā | 5 ˥
+h| Low  | ǎ | 1 ˩
+h| Rising | á | 13 ˩˧
+h| Falling | â | 42 ˦˨
+|===
