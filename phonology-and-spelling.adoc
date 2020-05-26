@@ -14,7 +14,7 @@ unaspirates.
 
 .2+h| Plosive h| Plain | b /p/ | d /t/ | g /h/
 h| Aspirate| p /pʰ/ | t /tʰ/ | k /kʰ/
-.2+h| Affricate h| Plain | z /tʃ/ ~ /tɕ/ | |
+.2+h| Affricate h| Plain | | z /tʃ/ ~ /tɕ/ |
 h| Aspirate | | c /tʃʰ/ ~ /tɕʰ/ |
 .2+h| Fricative h| Plain | f /f/ | s /s/ | h /h/
 h| Voiced | v /v/ | |
