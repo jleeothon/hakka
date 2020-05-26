@@ -70,8 +70,9 @@ There are four tones in Zhongshan Hakka.
 
 |===
 | Name | Representation | IPA
-| High | ā | 5 ˥
-| Low  | ǎ | 1 ˩
-| Rising | á | 14 ˩˦
-| Falling | â | 42 ˦˨
+
+h| High | ā | 5 ˥
+h| Low  | ǎ | 1 ˩
+h| Rising | á | 13 ˩˧
+h| Falling | â | 42 ˦˨
 |===
