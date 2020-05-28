@@ -19,7 +19,7 @@ It means: to do a verb to the fullest possible extent.
 +
 [example]
 --
-- _Please finish eating _all_ your meal._ 唔该食清你饭。(m̌ gói sīt ciāng nyá fān.)
+- _Please finish eating *all* your meal._ 唔该食清你饭。(m̌ gói sīt ciāng nyá fān.)
 - _I finished pouring the water._ 我倒清水。(ngǎi dâu ciāng hói sûi.)
 - _To not have finished peeing._ 吂屙清尿。(mǎn ó ciāng nyāu.)
 --
