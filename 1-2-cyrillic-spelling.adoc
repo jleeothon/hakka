@@ -87,5 +87,5 @@ At the end of each syllable, one of the following must be indicated.
 ** Cyrillic: ӈайѣ сёӈь ситъ тэўъ фуъ.
 
 * Do you eat (or not) fish balls?
-** Hanzi: 你食唔食鱼圆？
+** Hanzi: 你食唔食鱼圆啊？
 ** Cyrillic: ниѣ ситъ мѣ ситъ ӈѣ енѣ аѣ?
