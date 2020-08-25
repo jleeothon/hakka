@@ -1,6 +1,7 @@
 = Phonology and spelling
 
-[.normal]
+This is the phonology of Hakka spoken around Zhongshan, Guangdong Province.
+
 The phonology of Zhongshan Hakka is very similar to that of other Sinitic
 languages. For example, there are contrasting pairs of aspirates and
 unaspirates.
