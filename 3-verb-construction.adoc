@@ -1,4 +1,4 @@
-# Aspect markers
+# Verb construction
 
 These particles can be attached to verbs to convey aspect, in a similar way
 to how e.g. 了 works in Standard Mandarin.
@@ -23,3 +23,17 @@ It means: to do a verb to the fullest possible extent.
 - _I finished pouring the water._ 我倒清水。(ngǎi dâu ciāng hói sûi.)
 - _To not have finished peeing._ 吂屙清尿。(mǎn ó ciāng nyāu.)
 --
+
+被 bí::
++
+Used as a passive marker.
++
+[example]
+---
+- ⺅厓被佢骂（ngǎi bí gǐ mā）。 _I was insulted (or scolded) by him/her._
+---
+
+
+緊 gîn::
++
+Used as progressive marker.
