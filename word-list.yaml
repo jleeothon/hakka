@@ -1,0 +1,663 @@
+- h: 日
+  r: ñǐt
+  m: day
+  c: [Time]
+- h: 月  
+  r: ñēt
+  m: month
+  c: [Time]
+- h: 年  
+  r: ñěn
+  m: year
+  c: [Time]
+- h: 时间 
+  r: sǐ gān
+  m: time
+  c: [Time]
+- h: 日月 
+  r: ñǐt ñēt
+  m: date
+  c: [Time]
+- h: 今日
+  r: gím ñǐt _or_ gí ñǐt
+  m: today
+  c: [Time]
+- h: 晨早
+  r: sǐn zā
+  m: tomorrow
+  c: [Time]
+- h: 明早
+  r: mǐƞ zā
+  m: tomorrow
+  c: [Time]
+- h: 尋日
+  r: cám ñǐt
+  m: yesterday
+  c: [Time]
+- h: 今年
+  r: gín ñěn
+  m: this year
+  c: [Time]
+- h: 出年 
+  r: cǔt ñěn
+  m: next year
+  c: [Time]
+- h: 旧年 
+  r: kiū ñén
+  m: last year
+  c: [Time]
+- h: 礼拜 
+  r: lí bāi
+  m:  week
+  c: [Time]
+- h: 星期 
+  r: sín kǐ
+  m:  week (less common)
+  c: [Time]
+- h: 明年 
+  r: mǐƞ ñěn
+  m: next year (uncommon)
+  c: [Time]
+- h: 下年 
+  r: hā ñěn
+  m: next year (uncommon)
+  c: [Time]
+- h: 冇几久 
+  r: mǎu gî giû
+  m: not long ago, just now
+  c: [Time]
+- h: 年中 
+  r: gněn zóƞ
+  m: middle of the year
+  c: [Time]
+- h: 一直 
+  r: yǐt cīt
+  m: always
+  c: [Time]
+- h: 从来 
+  r: cǔƞ lǒi
+  m: never (used with negative verb)
+  example: 从来没食过虾 (cǔƞ lǒi mǎu sīt gō há) "never eaten shrimps"
+  c: [Time]
+- h: 通常 
+  r: túƞsǒƞ
+  m: usually
+  c: [Time]
+- h: 平时 
+  r: pǐn sǐ
+  m: usually
+  c: [Time]
+- h: 成日 
+  r: sǎƞ ñǐt
+  m: often, always
+  c: [Time]
+- h: 有时 
+  r: yú sǐ
+  m: sometimes
+  c: [Time]
+- h: 好少 
+  r: hâu sâu
+  m: rarely
+  c: [Time]
+- h: 假期
+  r: gā kǐ
+  m: holiday
+  c: [Time]
+- r: cēƞ gán
+  m: soon
+  c: [Time]
+- h: 吂曾
+  r: mǎn cěn
+  m: not yet
+  see: [吂]
+  c: [Time]
+- h: 吂
+  r: mǎn
+  m: not yet
+  see: [吂曾]
+  c: [Time]
+- h: 正先
+  r: zān sén
+  m: just now, a moment ago
+  see: [啱先]
+  c: [Time]
+- h: 啱先
+  r: ŋám sēn
+  m: just now, a moment ago
+  see: [正先]
+  c: [Time]
+- h: 礼拜一
+  r: lí bāi yǐt
+  m: Monday
+- h: 礼拜二
+  r: lí bāi ñī
+  m: Tuesday
+- h: 礼拜三
+  r: lí bāi sám
+  m: Wednesday
+- h: 礼拜四
+  r: lí bāi sī
+  m: Thursday
+- h: 礼拜五
+  r: lí bāi n̂g
+  m: Friday
+- h: 礼拜六
+  r: lí bāi lǔk
+- h: 礼拜
+  r: lí bāi
+  m: Week; Sunday
+- h: 星期一
+  r: xíƞ kǐ yǐt
+  m: Monday
+- h: 星期二
+  r: xíƞ kǐ ñī
+  m: Tuesday
+- h: 星期三
+  r: xíƞ kǐ sám
+  m: Wednesday
+- h: 星期四
+  r: xíƞ kǐ sī
+  m: Thursday
+- h: 星期五
+  r: xíƞ kǐ n̂g
+  m: Friday
+- h: 星期六
+  r: xíƞ kǐ lǔk
+  m: Saturday
+- h: 星期日
+  r: xíƞ kǐ ñǐt
+  m: Sunday
+- h: 下 (1)
+  r: há
+  m: down, downwards, to come down
+- h: 下 (2)
+  r: hā
+  m: next, usually used with a counting word
+  example: 下只礼拜 (hā zǎk lí bāi) next week
+- h: 上 (1)
+  r: sóƞ
+  m: up, upwards, to go up
+- h: 上 (2)
+  r: sōƞ
+  m: previous or last
+  example: 上只礼拜 (sōƞ zǎk lí bāi) last week
+- h: 几久
+  r: gî giû
+  m: how long
+- h: 几久……一摆 / 几久……一次
+  r: gî giû……yǐt bâi / gî giû……yǐt cī
+  m: how often
+  example: “你几久去韩国？”“我半年去一摆。每三只月去一摆”。(多久 in Mandarin)
+
+- h: 狗 
+  r: gêu
+  m: dog
+  c: [Animals]
+- h: 动物 
+  r: dūƞ mūt
+  m: animal 
+  c: [Animals]
+- h: 鵰仔 
+  r: diáu zêi
+  m:  bird
+  c: [Animals]
+- h: 马骝 
+  r: má léu
+  m: monkey
+  c: [Animals]
+- h: 猪 
+  r: zú
+  m: pig
+  c: [Animals]
+- h: 牛 
+  r: nyǔ
+  m: cow
+  c: [Animals]
+- h: 猴哥 
+  r: hěu gó
+  m: monkey (uncommon)
+  c: [Animals]
+- h: 鱼 
+  r: ňg
+  m: fish
+  c: [Animals]
+- h: 马 
+  r: má
+  m: horse
+  c: [Animals]
+- h: 马骝王 
+  r: má léu vǒƞ
+  m: Monkey King
+  c: [Animals]
+
+- h: 包粟
+  r: báu sǔk
+  m: maize, corn
+  c: [Food, Plants]
+
+- h: 芦笋
+  r: lǔ sún
+  m: asparagus
+  c: [Food, Plants]
+
+- h: 包菜
+  r: baú cōi
+  m: cabbage
+  c: [Food, Plants]
+
+- h: 腰豆
+  r: yáu têu
+  m: cashew nut
+  c: [Food, Plants]
+
+- h: 羊角豆
+  r: yǒƞ gǒk têu
+  m: okra
+  c: [Food, Plants]
+- h: 矮瓜
+  r: ái gá
+  m: aubergine (uncommon)
+  c: [Food, Plants]
+- h: 茄
+  r: kiǒ
+  m: aubergine
+  c: [Food, Plants]
+- h: 番茄
+  r: fán kiǒ
+  m: tomato
+  c: [Food, Plants]
+- h: 番薯
+  r: fán sǔ
+  m: sweet potato
+  c: [Food, Plants]
+- h: 薯仔
+  r: sǔ zêi
+  m: potato
+  c: [Food, Plants]
+- h: 地豆
+  r: tī tēu
+  m: peanut
+  c: [Food, Plants]
+
+# ===============================================================================
+# People, homes, clothing, tools
+# ===============================================================================
+
+- r: gāu
+  m: install, e.g. curtains
+- h: 邻舍
+  r: lǔn sā
+  m: neighbour
+- h: 宿舍
+  r: sǔk siā
+  m: dormitory
+- h: 公寓
+  r: gúƞ yí
+  m: apartment (uncommon)
+- h: 减租
+  r: gâm zú
+  m: decrease rent
+- h: 加租
+  r: gá zú
+  m: increase rent e.g. ŋá fǒŋ zú yū gá hói
+- h: 地主
+  r: tī zú
+  m: owner of the plot of land
+- h: 屋主
+  r: ǔk zú
+  m: house owner
+- h: 房租
+  r: fǒŋ zú
+  m: rent (for a room)
+- h: 排屋
+  r: pǎi ǔk
+  m: landed house
+- h: 裤袋
+  r: fū tōi
+  m: pocket
+- h: 枕头
+  r: zîm těu
+  m: pillow
+- h: 匙羹
+  r: cǐ gáŋ
+  m: spool
+- h: 锁匙
+  r: sô sǐ
+  m: key
+- h: 被
+  r: pí
+  m: blanket, duvet
+
+# ===============================================================================
+# Geography
+# ===============================================================================
+
+- h: 边界
+  r: bén gāi
+  m: border
+  c: [Geography]
+- h: 国家
+  r: gǒk gá
+  m: country
+  c: [Geography]
+- h: 乡村
+  r: hióŋ cún
+  m: village
+  c: [Geography]
+- h: 乡下
+  r: hióŋ hā
+  m: countryside; hometown
+- h: 城市
+  r: sǎŋ sǐ
+  m: city
+  c: [Geography]
+- h: 州
+  r: ziú
+  m: state
+  c: [Geography]
+- h: 镇
+  r: zīn
+  m: town
+  c: [Geography]
+- h: 省
+  r: sáŋ
+  m: province
+  c: [Geography]
+- h: 中国
+  r: zúŋ gǒk
+  m: China
+  c: [Geography]
+- h: 潮州
+  r: chǎu ziú
+  m: Chaozhou
+  c: [Geography]
+- h: 缅甸
+  r: mēn dēn
+  m: Myanmar
+  c: [Geography]
+- h: 印尼
+  r: yīn lǐ
+  m: Indonesia
+  c: [Geography]
+- h: 孟加拉
+  r: máŋ gâ lǎ
+  m: Bangladesh
+  c: [Geography]
+- h: 首尔
+  r: siû nî
+  m: Seoul
+  c: [Geography]
+
+- h: 一
+  r: yǐt
+  m: one
+  c: [Numbers]
+- h: 二
+  r: ñī
+  m: two
+  c: [Numbers]
+- h: 三
+  r: sám
+  m: three
+- h: 四
+  r: sī
+  c: [Numbers]
+  m: four
+- h: 五
+  r: ŋ̂
+  c: [Numbers]
+  m: five
+- h: 六
+  r: lǔk
+  c: [Numbers]
+- h: 七
+  r: qǐt
+  c: [Numbers]
+- h: 八
+  r: bǎt
+  c: [Numbers]
+- h: 九
+  r: giû
+  c: [Numbers]
+- h: 十
+  r: sīp
+  c: [Numbers]
+- h: 廿
+  r: nyīp
+  c: [Numbers]
+- h: 百
+  r: bǎk
+  c: [Numbers]
+- h: 千
+  r: cén
+  c: [Numbers]
+- h: 万
+  r: mān
+  c: [Numbers]
+
+# ===============================================================================
+# Language
+# ===============================================================================
+
+- h: 量词
+  r: liōŋ cī
+  m: classifier, counting word
+
+# ===============================================================================
+# Common adverbs, conjunctions, prepositions
+# ===============================================================================
+
+- h: 不过 
+  r: bǔ gō
+  m: but (uncommon) 
+- h: 但系 
+  r: dān hēi
+  m: but
+- h: 已经 
+  r: yî gín
+  m: already
+- h: 或者 
+  r: vāk ziâ
+  m: maybe
+- h: 可能 
+  r: hô lěn
+  m: maybe
+- h: 真系 
+  r: zín hēi
+  m: really
+- h: 好 
+  r: hâu
+  m: very, good e.g. 好新 very new, 好好 very good
+- h: 也 
+  r: yá
+  m: also (but 都 more common)
+- h: 都 
+  r: dú
+  m: also
+- h: 好似系，好似讲 
+  r: hâw cî hēi, hâu cî gôŋ
+  m: for example
+- h: 乜嘢 
+  r: mǎt yâ
+  m: what
+- h: 乜介 
+  r: mǎd gēi
+  m: what
+- h: 也係 
+  r: yá hēi
+  m: or
+- h: 还系 
+  r: hǎn hēi
+  m: or (used in questions)
+- h: 或者 
+  r: wāg jiâ
+  m: or, maybe
+
+# ===============================================================================
+# Other
+# ===============================================================================
+
+- h: 按摩
+  r: ón mó
+  m: massage
+
+- h: 隔离
+  r: gǎk lǐ
+  m: to do quarantine
+
+- h: 准
+  r: zún
+  m: accurate
+- h: 挖
+  r: wǎt
+  m: to remove
+- h: 工厂
+  r: gúŋ côŋ
+  m: factory
+- h: 症状
+  r: dīn zōŋ
+  m: symptom
+- h: 尋事
+  r: cǐm sī̵
+  m: look for trouble
+- h: 法律
+  r: fǎt lūt
+  m: law
+- h: 封国
+  r: fúŋ gǒk
+  m: close the country
+- h: 封城
+  r: fúŋ sǎŋ
+  m: close the city
+
+- h: 救伤车
+  r: giū sóŋ cá
+  m: ambulance
+
+- h: 十字车
+  r: sīp zī cá
+  m: ambulance (uncommon)
+
+- h: 白车
+  r: pāk cá
+  m: ambulance
+
+- h: 百分比
+  r: bǎk fún
+  m: percentage
+
+- h: 丑闻
+  r: ciū mǔn
+  m: scandal
+
+- h: 直接
+  r: cīt cět
+  m: directly
+
+- h: 严重
+  r: yǎm zūŋ
+  m: serious
+
+
+- h: 笔
+  r: bǐt
+  m: pencil or pen (counting word 支 zí)
+
+
+- h: 中间人
+  r: zúŋ gán ñǐn
+  m: middleman
+
+- h: 人工
+  r: ñǐn gúŋ
+  m: salary
+
+- h: 农业  (nóngyè)
+  r: lǔŋ yāp
+  m: agriculture
+
+- h: 外老
+  r: ŋōi lǎu
+  m: immigrant
+
+- h: 跑步
+  r: pâu pū
+  m: to run
+
+- h: 请
+  r: qiâng
+  m: invite, hire
+
+- h: 小区 hood
+  r: siâu kí
+  m: neighbour
+
+- h: 衰
+  r: sói
+  m: bad, nasty
+
+- h: 衰东西
+  r: sói dúŋ sí
+  m: nasty or bad boy/girl
+
+- h: 衰嘢
+  r: sói yâ
+  see: [衰东西]
+
+- h: 梗系
+  r: gân hēi
+  m: obviously
+- h: 啱
+  r: ŋám
+  m: correct, correctly
+- h: 啱线
+  r: ŋám sēn
+  m: coincidentally
+- h: 隔离
+  r: gǎk lǐ
+  m: beside, nextdoors; quarantine
+- h: 完
+  r: wǒn
+  m: almost e.g. wǒn ñěn hói lō=
+- h: 闹钟
+  r: lāu zúŋ
+  m: alarm
+- h: 自由
+  r: zī yǔ
+  m: freedom
+- h: 单身
+  r: dán sín
+  m: siŋle i.e. not in a couple
+- h: 节日
+  r: zět ñǐt
+  m: festival
+- h: 假
+  r: gâ
+  m: fake, false
+- h: 锡纸
+  r: siǎk jǐ
+  m: aluminium paper
+- h: 恶
+  r: ǒk
+  m: angry, evil
+- h: 转
+  r: zôn
+  m: to return
+- h: 晓
+  r: hiâu
+  m: to know how to; future marker (like "will")
+- h: 亢身
+  r: hōŋ sín
+  m: to get up (in the morning)
+- h: 亢床
+  r: hōŋ chǒŋ
+  m: to get up (in the morning)
+- h: 视频
+  r: sī pǐn
+  m: video
+- h: 邓丽君
+  r: těn lēi giūn
+  m: Teresa Teŋ
+- h: 阵间
+  r: cēn gán
+  m: in a moment

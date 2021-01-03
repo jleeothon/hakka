@@ -5,9 +5,9 @@
 |===
 | 2+| Sg. 2+| Pl.
 
-h| 1st | ⺅厓 | ngǎi | ⺅厓?哋 | ngá dí
-h| 2nd | 你 | nyǐ |  你?哋 | nyá dí
-h| 3rd | 佢 | gǐ |  佢?哋 | kiá dí
+h| 1st | ⺅厓 | ngǎi | 吾哋 | ngá dí
+h| 2nd | 你 | nyǐ |  若哋 | nyá dí
+h| 3rd | 佢 | gǐ |  厥哋 | kiá dí
 |===
 
 == Possessive
@@ -15,9 +15,9 @@ h| 3rd | 佢 | gǐ |  佢?哋 | kiá dí
 |===
 | 2+| Sg. 2+| Pl.
 
-h| 1st | ⺅厓? | ngá | ⺅厓哋嘅 | ngá dí
-h| 2nd | 你? | nyá |  你哋嘅 | nyá dí
-h| 3rd | 佢? | giá |  佢哋嘅 | kiá dí
+h| 1st | 吾 | ngá | 吾哋嘅 | ngá dí
+h| 2nd | 若 | nyá |  若哋嘅 | nyá dí
+h| 3rd | 厥 | giá |  厥哋嘅 | kiá dí
 |===
 
 For possessive pronouns, more often, a counting word may be attached to the
