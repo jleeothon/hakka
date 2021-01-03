@@ -9,30 +9,29 @@ I shall be using a transliteration based on Hagfa Pinyim.
 
 ### Consonants
 
-In the following diagram we assume any letter can only be an initial unless
-stated otherwise.
+Some consonants can only appear at the syllable onset, at the coda, or some at both.
 
-| Letter | IPA   | Notes                                      |
-| ------ | ----- | ------------------------------------------ |
-| b      | /p/   | Also final.                                |
-| p      | /pʰ/  |                                            |
-| d      | /t/   | Also final.                                |
-| t      | /tʰ/  |                                            |
-| g      | /k/   | Also final.                                |
-| k      | /kʰ/  |                                            |
-| z, j   | /tʃ/  | [See note 1 below](note-1)                 |
-| c, q   | /tʃʰ/ | [See note 1 below](note-1)                 |
-| s, x   | /s/   |                                            |
-| h      | /h/   |                                            |
-| m      | /m/   | Initial and final.                         |
-| n      | /n/   | Only final                                 |
-| ñ      | /ɲ/   | Only initial                               |
-| ŋ      | /ŋ/   | Initial and final.                         |
-| f      | /f/   |                                            |
-| v      | /v/   |                                            |
-| l      | /l/   |                                            |
-| y      | /j/   | Initial and final.                      |
-| w      | /w/   | Initial and final. Marginal as initial. |
+| Letter | IPA   | Initial | Final | Notes                                   |
+| ------ | ----- | ------- | ----- | --------------------------------------- |
+| b      | /p/   | ✓       | ✓     |                              |
+| p      | /pʰ/  | ✓       |       |                                         |
+| d      | /t/   | ✓       | ✓     |                              |
+| t      | /tʰ/  | ✓       |       |                                         |
+| g      | /k/   | ✓       | ✓     |                              |
+| k      | /kʰ/  | ✓       |       |                                         |
+| z, j   | /tʃ/  | ✓       |       | [See note 1 below](note-1)              |
+| c, q   | /tʃʰ/ | ✓       |       | [See note 1 below](note-1)              |
+| s, x   | /s/   | ✓       |       |                                         |
+| h      | /h/   | ✓       |       |                                         |
+| m      | /m/   | ✓       | ✓     |                       |
+| n      | /n/   |         | ✓     |                               |
+| ñ      | /ɲ/   | ✓       |       |                             |
+| ŋ      | /ŋ/   | ✓       | ✓     |                       |
+| f      | /f/   | ✓       |       |                                         |
+| v      | /v/   | ✓       |       |                                         |
+| l      | /l/   | ✓       |       |                                         |
+| y      | /j/   | ✓       | ✓     |                       |
+| w      | /w/   | ✓       | ✓     |  |
 
 In summary, finals can be: b, d, g, m, n, ŋ, y, w.
 
@@ -43,16 +42,16 @@ precedent by Hanyu Pinyin.
 
 ### Nuclei
 
-| Nucleus | IPA    |
-| ------- | ------ |
-| a       | /a/    |
-| ia      | /i̯a/  |
-| e       | /e/    |
-| ie      | /i̯e/     |
-| o       | /o/    |
-| io      | /i̯o/    |
-| u       | /u/    |
-| iu      | /i̯u/    |
+| Nucleus | IPA  |
+| ------- | ---- |
+| a       | /a/  |
+| ia      | /i̯a/ |
+| e       | /e/  |
+| ie      | /i̯e/ |
+| o       | /o/  |
+| io      | /i̯o/ |
+| u       | /u/  |
+| iu      | /i̯u/ |
 
 ### Tone
 
