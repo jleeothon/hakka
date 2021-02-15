@@ -1,688 +1,884 @@
-- h: 日
-  r: ñǐt
-  m: day
-  c: [Time]
-- h: 月  
-  r: ñēt
-  m: month
-  c: [Time]
-- h: 年  
-  r: ñěn
-  m: year
-  c: [Time]
-- h: 时间 
-  r: sǐ gān
-  m: time
-  c: [Time]
-- h: 日月 
-  r: ñǐt ñēt
-  m: date
-  c: [Time]
-- h: 今日
-  r: gím ñǐt _or_ gí ñǐt
-  m: today
-  c: [Time]
-- h: 晨早
-  r: sǐn zā
-  m: tomorrow
-  c: [Time]
-- h: 明早
-  r: mǐƞ zā
-  m: tomorrow
-  c: [Time]
-- h: 尋日
-  r: cám ñǐt
-  m: yesterday
-  c: [Time]
-- h: 今年
-  r: gín ñěn
-  m: this year
-  c: [Time]
-- h: 出年 
-  r: cǔt ñěn
-  m: next year
-  c: [Time]
-- h: 旧年 
-  r: kiū ñén
-  m: last year
-  c: [Time]
-- h: 礼拜 
-  r: lí bāi
-  m:  week
-  c: [Time]
-- h: 星期 
-  r: sín kǐ
-  m:  week (less common)
-  c: [Time]
-- h: 明年 
-  r: mǐƞ ñěn
-  m: next year (uncommon)
-  c: [Time]
-- h: 下年 
-  r: hā ñěn
-  m: next year (uncommon)
-  c: [Time]
-- h: 冇几久 
-  r: mǎu gî giû
-  m: not long ago, just now
-  c: [Time]
-- h: 年中 
-  r: gněn zóƞ
-  m: middle of the year
-  c: [Time]
-- h: 一直 
-  r: yǐt cīt
-  m: always
-  c: [Time]
-- h: 从来 
-  r: cǔƞ lǒi
-  m: never (used with negative verb)
+- hanzi: 日
+  reading: ñǐt
+  meaning: day
+  tags: [Time]
+- hanzi: 月  
+  reading: ñēt
+  meaning: month
+  tags: [Time]
+- hanzi: 年  
+  reading: ñěn
+  meaning: year
+  tags: [Time]
+- hanzi: 时间 
+  reading: sǐ gān
+  meaning: time
+  tags: [Time]
+- hanzi: 日月 
+  reading: ñǐt ñēt
+  meaning: date
+  tags: [Time]
+- hanzi: 今日
+  reading: gím ñǐt _or_ gí ñǐt
+  meaning: today
+  tags: [Time]
+- hanzi: 晨早
+  reading: sǐn zā
+  meaning: tomorrow
+  tags: [Time]
+- hanzi: 明早
+  reading: mǐƞ zā _or_ mǐn zā
+  meaning: tomorrow
+  tags: [Time]
+- hanzi: 尋日
+  reading: cám ñǐt
+  meaning: yesterday
+  tags: [Time]
+- hanzi: 今年
+  reading: gín ñěn
+  meaning: this year
+  tags: [Time]
+- hanzi: 出年 
+  reading: cǔt ñěn
+  meaning: next year
+  tags: [Time]
+- hanzi: 旧年 
+  reading: kiū ñén
+  meaning: last year
+  tags: [Time]
+- hanzi: 礼拜 
+  reading: lí bāi
+  meaning:  week
+  tags: [Time]
+- hanzi: 星期 
+  reading: sín kǐ
+  meaning:  week (less common)
+  tags: [Time]
+- hanzi: 明年 
+  reading: mǐƞ ñěn
+  meaning: next year (uncommon)
+  tags: [Time]
+- hanzi: 下年 
+  reading: hā ñěn
+  meaning: next year (uncommon)
+  tags: [Time]
+- hanzi: 冇几久 
+  reading: mǎu gî giû
+  meaning: not long ago, just now
+  tags: [Time]
+- hanzi: 年中 
+  reading: gněn zóƞ
+  meaning: middle of the year
+  tags: [Time]
+- hanzi: 一直 
+  reading: yǐt cīt
+  meaning: always
+  tags: [Time]
+- hanzi: 从来 
+  reading: cǔƞ lǒi
+  meaning: never (used with negative verb)
   example: 从来没食过虾 (cǔƞ lǒi mǎu sīt gō há) "never eaten shrimps"
-  c: [Time]
-- h: 通常 
-  r: túƞsǒƞ
-  m: usually
-  c: [Time]
-- h: 平时 
-  r: pǐn sǐ
-  m: usually
-  c: [Time]
-- h: 成日 
-  r: sǎƞ ñǐt
-  m: often, always
-  c: [Time]
-- h: 有时 
-  r: yú sǐ
-  m: sometimes
-  c: [Time]
-- h: 好少 
-  r: hâu sâu
-  m: rarely
-  c: [Time]
-- h: 假期
-  r: gā kǐ
-  m: holiday
-  c: [Time]
-- r: cēƞ gán
-  m: soon
-  c: [Time]
-- h: 吂曾
-  r: mǎn cěn
-  m: not yet
+  tags: [Time]
+- hanzi: 通常 
+  reading: túƞsǒƞ
+  meaning: usually
+  tags: [Time]
+- hanzi: 平时 
+  reading: pǐn sǐ
+  meaning: usually
+  tags: [Time]
+- hanzi: 成日 
+  reading: sǎƞ ñǐt
+  meaning: often, always
+  tags: [Time]
+- hanzi: 有时 
+  reading: yú sǐ
+  meaning: sometimes
+  tags: [Time]
+- hanzi: 好少 
+  reading: hâu sâu
+  meaning: rarely
+  tags: [Time]
+- hanzi: 假期
+  reading: gā kǐ
+  meaning: holiday
+  tags: [Time]
+- reading: cēƞ gán
+  meaning: soon
+  tags: [Time]
+- hanzi: 吂曾
+  reading: mǎn cěn
+  meaning: not yet
   see: [吂]
-  c: [Time]
-- h: 吂
-  r: mǎn
-  m: not yet
+  tags: [Time]
+- hanzi: 吂
+  reading: mǎn
+  meaning: not yet
   see: [吂曾]
-  c: [Time]
-- h: 正先
-  r: zān sén
-  m: just now, a moment ago
+  tags: [Time]
+- hanzi: 正先
+  reading: zān sén
+  meaning: just now, a moment ago
   see: [啱先]
-  c: [Time]
-- h: 啱先
-  r: ŋám sēn
-  m: just now, a moment ago
+  tags: [Time]
+- hanzi: 啱先
+  reading: ŋám sēn
+  meaning: just now, a moment ago
   see: [正先]
-  c: [Time]
-- h: 礼拜一
-  r: lí bāi yǐt
-  m: Monday
-- h: 礼拜二
-  r: lí bāi ñī
-  m: Tuesday
-- h: 礼拜三
-  r: lí bāi sám
-  m: Wednesday
-- h: 礼拜四
-  r: lí bāi sī
-  m: Thursday
-- h: 礼拜五
-  r: lí bāi n̂g
-  m: Friday
-- h: 礼拜六
-  r: lí bāi lǔk
-- h: 礼拜
-  r: lí bāi
-  m: Week; Sunday
-- h: 星期一
-  r: xíƞ kǐ yǐt
-  m: Monday
-- h: 星期二
-  r: xíƞ kǐ ñī
-  m: Tuesday
-- h: 星期三
-  r: xíƞ kǐ sám
-  m: Wednesday
-- h: 星期四
-  r: xíƞ kǐ sī
-  m: Thursday
-- h: 星期五
-  r: xíƞ kǐ n̂g
-  m: Friday
-- h: 星期六
-  r: xíƞ kǐ lǔk
-  m: Saturday
-- h: 星期日
-  r: xíƞ kǐ ñǐt
-  m: Sunday
-- h: 下 (1)
-  r: há
-  m: down, downwards, to come down
-- h: 下 (2)
-  r: hā
-  m: next, usually used with a counting word
+  tags: [Time]
+- hanzi: 礼拜一
+  reading: lí bāi yǐt
+  meaning: Monday
+- hanzi: 礼拜二
+  reading: lí bāi ñī
+  meaning: Tuesday
+- hanzi: 礼拜三
+  reading: lí bāi sám
+  meaning: Wednesday
+- hanzi: 礼拜四
+  reading: lí bāi sī
+  meaning: Thursday
+- hanzi: 礼拜五
+  reading: lí bāi n̂g
+  meaning: Friday
+- hanzi: 礼拜六
+  reading: lí bāi lǔk
+- hanzi: 礼拜
+  reading: lí bāi
+  meaning: Week; Sunday
+- hanzi: 星期一
+  reading: xíƞ kǐ yǐt
+  meaning: Monday
+- hanzi: 星期二
+  reading: xíƞ kǐ ñī
+  meaning: Tuesday
+- hanzi: 星期三
+  reading: xíƞ kǐ sám
+  meaning: Wednesday
+- hanzi: 星期四
+  reading: xíƞ kǐ sī
+  meaning: Thursday
+- hanzi: 星期五
+  reading: xíƞ kǐ n̂g
+  meaning: Friday
+- hanzi: 星期六
+  reading: xíƞ kǐ lǔk
+  meaning: Saturday
+- hanzi: 星期日
+  reading: xíƞ kǐ ñǐt
+  meaning: Sunday
+- hanzi: 下 (1)
+  reading: há
+  meaning: down, downwards, to come down
+- hanzi: 下 (2)
+  reading: hā
+  meaning: next, usually used with a counting word
   example: 下只礼拜 (hā zǎk lí bāi) next week
-- h: 上 (1)
-  r: sóƞ
-  m: up, upwards, to go up
-- h: 上 (2)
-  r: sōƞ
-  m: previous or last
+- hanzi: 上 (1)
+  reading: sóƞ
+  meaning: up, upwards, to go up
+- hanzi: 上 (2)
+  reading: sōƞ
+  meaning: previous or last
   example: 上只礼拜 (sōƞ zǎk lí bāi) last week
-- h: 几久
-  r: gî giû
-  m: how long
-- h: 几久……一摆 / 几久……一次
-  r: gî giû……yǐt bâi / gî giû……yǐt cī
-  m: how often
+- hanzi: 几久
+  reading: gî giû
+  meaning: how long
+- hanzi: 几久……一摆 / 几久……一次
+  reading: gî giû……yǐt bâi / gî giû……yǐt cī
+  meaning: how often
   example: “你几久去韩国？”“我半年去一摆。每三只月去一摆”。(多久 in Mandarin)
 
-- h: 狗 
-  r: gêu
-  m: dog
-  c: [Animals]
-- h: 动物 
-  r: dūƞ mūt
-  m: animal 
-  c: [Animals]
-- h: 鵰仔 
-  r: diáu zêi
-  m:  bird
-  c: [Animals]
-- h: 马骝 
-  r: má léu
-  m: monkey
-  c: [Animals]
-- h: 猪 
-  r: zú
-  m: pig
-  c: [Animals]
-- h: 牛 
-  r: nyǔ
-  m: cow
-  c: [Animals]
-- h: 猴哥 
-  r: hěu gó
-  m: monkey (uncommon)
-  c: [Animals]
-- h: 鱼 
-  r: ŋ̌
-  m: fish
-  c: [Animals]
-- h: 马 
-  r: má
-  m: horse
-  c: [Animals]
-- h: 马骝王 
-  r: má léu vǒƞ
-  m: Monkey King
-  c: [Animals]
+- hanzi: 狗 
+  reading: gêu
+  meaning: dog
+  tags: [Animals]
+- hanzi: 动物 
+  reading: dūƞ mūt
+  meaning: animal 
+  tags: [Animals]
+- hanzi: 鵰仔 
+  reading: diáu zêi
+  meaning:  bird
+  tags: [Animals]
+- hanzi: 马骝 
+  reading: má léu
+  meaning: monkey
+  tags: [Animals]
+- hanzi: 猪 
+  reading: zú
+  meaning: pig
+  tags: [Animals]
+- hanzi: 牛 
+  reading: nyǔ
+  meaning: cow
+  tags: [Animals]
+- hanzi: 猴哥 
+  reading: hěu gó
+  meaning: monkey (uncommon)
+  tags: [Animals]
+- hanzi: 鱼 
+  reading: ŋ̌
+  meaning: fish
+  tags: [Animals]
+- hanzi: 马 
+  reading: má
+  meaning: horse
+  tags: [Animals]
+- hanzi: 马骝王 
+  reading: má léu vǒƞ
+  meaning: Monkey King
+  tags: [Animals]
 
-- h: 包粟
-  r: báu sǔk
-  m: maize, corn
-  c: [Food, Plants]
+- hanzi: 包粟
+  reading: báu sǔk
+  meaning: maize, corn
+  tags: [Food, Plants]
 
-- h: 芦笋
-  r: lǔ sún
-  m: asparagus
-  c: [Food, Plants]
+- hanzi: 芦笋
+  reading: lǔ sún
+  meaning: asparagus
+  tags: [Food, Plants]
 
-- h: 包菜
-  r: baú cōi
-  m: cabbage
-  c: [Food, Plants]
+- hanzi: 包菜
+  reading: baú cōi
+  meaning: cabbage
+  tags: [Food, Plants]
 
-- h: 腰豆
-  r: yáu têu
-  m: cashew nut
-  c: [Food, Plants]
+- hanzi: 腰豆
+  reading: yáu têu
+  meaning: cashew nut
+  tags: [Food, Plants]
 
-- h: 羊角豆
-  r: yǒƞ gǒk têu
-  m: okra
-  c: [Food, Plants]
-- h: 矮瓜
-  r: ái gá
-  m: aubergine (uncommon)
-  c: [Food, Plants]
-- h: 茄
-  r: kiǒ
-  m: aubergine
-  c: [Food, Plants]
-- h: 番茄
-  r: fán kiǒ
-  m: tomato
-  c: [Food, Plants]
-- h: 番薯
-  r: fán sǔ
-  m: sweet potato
-  c: [Food, Plants]
-- h: 薯仔
-  r: sǔ zêi
-  m: potato
-  c: [Food, Plants]
-- h: 地豆
-  r: tī tēu
-  m: peanut
-  c: [Food, Plants]
+- hanzi: 羊角豆
+  reading: yǒƞ gǒk têu
+  meaning: okra
+  tags: [Food, Plants]
+- hanzi: 矮瓜
+  reading: ái gá
+  meaning: aubergine (uncommon)
+  tags: [Food, Plants]
+- hanzi: 茄
+  reading: kiǒ
+  meaning: aubergine
+  tags: [Food, Plants]
+- hanzi: 番茄
+  reading: fán kiǒ
+  meaning: tomato
+  tags: [Food, Plants]
+- hanzi: 番薯
+  reading: fán sǔ
+  meaning: sweet potato
+  tags: [Food, Plants]
+- hanzi: 薯仔
+  reading: sǔ zêi
+  meaning: potato
+  tags: [Food, Plants]
+- hanzi: 地豆
+  reading: tī tēu
+  meaning: peanut
+  tags: [Food, Plants]
 
 # ===============================================================================
 # People, homes, clothing, tools
 # ===============================================================================
 
-- r: gāu
-  m: install, e.g. curtains
-- h: 邻舍
-  r: lǔn sā
-  m: neighbour
-- h: 宿舍
-  r: sǔk siā
-  m: dormitory
-- h: 公寓
-  r: gúƞ yí
-  m: apartment (uncommon)
-- h: 减租
-  r: gâm zú
-  m: decrease rent
-- h: 加租
-  r: gá zú
-  m: increase rent e.g. ŋá fǒŋ zú yū gá hói
-- h: 地主
-  r: tī zú
-  m: owner of the plot of land
-- h: 屋主
-  r: ǔk zú
-  m: house owner
-- h: 房租
-  r: fǒŋ zú
-  m: rent (for a room)
-- h: 排屋
-  r: pǎi ǔk
-  m: landed house
-- h: 裤袋
-  r: fū tōi
-  m: pocket
-- h: 枕头
-  r: zîm těu
-  m: pillow
-- h: 匙羹
-  r: cǐ gáŋ
-  m: spool
-- h: 锁匙
-  r: sô sǐ
-  m: key
-- h: 被
-  r: pí
-  m: blanket, duvet
+- reading: gāu
+  meaning: install, e.g. curtains
+- hanzi: 邻舍
+  reading: lǔn sā
+  meaning: neighbour
+- hanzi: 宿舍
+  reading: sǔk siā
+  meaning: dormitory
+- hanzi: 公寓
+  reading: gúƞ yí
+  meaning: apartment (uncommon)
+- hanzi: 减租
+  reading: gâm zú
+  meaning: decrease rent
+- hanzi: 加租
+  reading: gá zú
+  meaning: increase rent e.g. ŋá fǒŋ zú yū gá hói
+- hanzi: 地主
+  reading: tī zú
+  meaning: owner of the plot of land
+- hanzi: 屋主
+  reading: ǔk zú
+  meaning: house owner
+- hanzi: 房租
+  reading: fǒŋ zú
+  meaning: rent (for a room)
+- hanzi: 排屋
+  reading: pǎi ǔk
+  meaning: landed house
+- hanzi: 裤袋
+  reading: fū tōi
+  meaning: pocket
+- hanzi: 枕头
+  reading: zîm těu
+  meaning: pillow
+- hanzi: 匙羹
+  reading: cǐ gáŋ
+  meaning: spool
+- hanzi: 锁匙
+  reading: sô sǐ
+  meaning: key
+- hanzi: 被
+  reading: pí
+  meaning: blanket, duvet
 
 # ===============================================================================
 # Geography
 # ===============================================================================
 
-- h: 边界
-  r: bén gāi
-  m: border
-  c: [Geography]
-- h: 国家
-  r: gǒk gá
-  m: country
-  c: [Geography]
-- h: 乡村
-  r: hióŋ cún
-  m: village
-  c: [Geography]
-- h: 乡下
-  r: hióŋ hā
-  m: countryside; hometown
-- h: 城市
-  r: sǎŋ sǐ
-  m: city
-  c: [Geography]
-- h: 州
-  r: ziú
-  m: state
-  c: [Geography]
-- h: 镇
-  r: zīn
-  m: town
-  c: [Geography]
-- h: 省
-  r: sáŋ
-  m: province
-  c: [Geography]
-- h: 中国
-  r: zúŋ gǒk
-  m: China
-  c: [Geography]
-- h: 潮州
-  r: chǎu ziú
-  m: Chaozhou
-  c: [Geography]
-- h: 缅甸
-  r: mēn dēn
-  m: Myanmar
-  c: [Geography]
-- h: 印尼
-  r: yīn lǐ
-  m: Indonesia
-  c: [Geography]
-- h: 孟加拉
-  r: máŋ gâ lǎ
-  m: Bangladesh
-  c: [Geography]
-- h: 首尔
-  r: siû nî
-  m: Seoul
-  c: [Geography]
+- hanzi: 边界
+  reading: bén gāi
+  meaning: border
+  tags: [Geography]
+- hanzi: 国家
+  reading: gǒk gá
+  meaning: country
+  tags: [Geography]
+- hanzi: 乡村
+  reading: hióŋ cún
+  meaning: village
+  tags: [Geography]
+- hanzi: 乡下
+  reading: hióŋ hā
+  meaning: countryside; hometown
+- hanzi: 城市
+  reading: sǎŋ sǐ
+  meaning: city
+  tags: [Geography]
+- hanzi: 州
+  reading: ziú
+  meaning: state
+  tags: [Geography]
+- hanzi: 镇
+  reading: zīn
+  meaning: town
+  tags: [Geography]
+- hanzi: 省
+  reading: sáŋ
+  meaning: province
+  tags: [Geography]
+- hanzi: 中国
+  reading: zúŋ gǒk
+  meaning: China
+  tags: [Geography]
+- hanzi: 潮州
+  reading: chǎu ziú
+  meaning: Chaozhou
+  tags: [Geography]
+- hanzi: 缅甸
+  reading: mēn dēn
+  meaning: Myanmar
+  tags: [Geography]
+- hanzi: 印尼
+  reading: yīn lǐ
+  meaning: Indonesia
+  tags: [Geography]
+- hanzi: 孟加拉
+  reading: máŋ gâ lǎ
+  meaning: Bangladesh
+  tags: [Geography]
+- hanzi: 首尔
+  reading: siû nî
+  meaning: Seoul
+  tags: [Geography]
 
-- h: 一
-  r: yǐt
-  m: one
-  c: [Numbers]
-- h: 二
-  r: ñī
-  m: two
-  c: [Numbers]
-- h: 三
-  r: sám
-  m: three
-- h: 四
-  r: sī
-  c: [Numbers]
-  m: four
-- h: 五
-  r: ŋ̂
-  c: [Numbers]
-  m: five
-- h: 六
-  r: lǔk
-  c: [Numbers]
-- h: 七
-  r: qǐt
-  c: [Numbers]
-- h: 八
-  r: bǎt
-  c: [Numbers]
-- h: 九
-  r: giû
-  c: [Numbers]
-- h: 十
-  r: sīp
-  c: [Numbers]
-- h: 廿
-  r: nyīp
-  c: [Numbers]
-- h: 百
-  r: bǎk
-  c: [Numbers]
-- h: 千
-  r: cén
-  c: [Numbers]
-- h: 万
-  r: mān
-  c: [Numbers]
+- hanzi: 一
+  reading: yǐt
+  meaning: one
+  tags: [Numbers]
+- hanzi: 二
+  reading: ñī
+  meaning: two
+  tags: [Numbers]
+- hanzi: 三
+  reading: sám
+  meaning: three
+- hanzi: 四
+  reading: sī
+  tags: [Numbers]
+  meaning: four
+- hanzi: 五
+  reading: ŋ̂
+  tags: [Numbers]
+  meaning: five
+- hanzi: 六
+  reading: lǔk
+  tags: [Numbers]
+- hanzi: 七
+  reading: qǐt
+  tags: [Numbers]
+- hanzi: 八
+  reading: bǎt
+  tags: [Numbers]
+- hanzi: 九
+  reading: giû
+  tags: [Numbers]
+- hanzi: 十
+  reading: sīp
+  tags: [Numbers]
+- hanzi: 廿
+  reading: nyīp
+  tags: [Numbers]
+- hanzi: 百
+  reading: bǎk
+  tags: [Numbers]
+- hanzi: 千
+  reading: cén
+  tags: [Numbers]
+- hanzi: 万
+  reading: mān
+  tags: [Numbers]
 
 # ===============================================================================
 # Language
 # ===============================================================================
 
-- h: 量词
-  r: liōŋ cī
-  m: classifier, counting word
+- hanzi: 量词
+  reading: liōŋ cī
+  meaning: classifier, counting word
 
 # ===============================================================================
 # Common adverbs, conjunctions, prepositions
 # ===============================================================================
 
-- h: 不过 
-  r: bǔ gō
-  m: but (uncommon) 
-- h: 但系 
-  r: dān hēi
-  m: but
-- h: 已经 
-  r: yî gín
-  m: already
-- h: 或者 
-  r: vāk ziâ
-  m: maybe
-- h: 可能 
-  r: hô lěn
-  m: maybe
-- h: 真系 
-  r: zín hēi
-  m: really
-- h: 好 
-  r: hâu
-  m: very, good e.g. 好新 very new, 好好 very good
-- h: 也 
-  r: yá
-  m: also (but 都 more common)
-- h: 都 
-  r: dú
-  m: also
-- h: 好似系，好似讲 
-  r: hâw cî hēi, hâu cî gôŋ
-  m: for example
-- h: 乜嘢 
-  r: mǎt yâ
-  m: what
-- h: 乜介 
-  r: mǎd gēi
-  m: what
-- h: 也係 
-  r: yá hēi
-  m: or
-- h: 还系 
-  r: hǎn hēi
-  m: or (used in questions)
-- h: 或者 
-  r: wāg jiâ
-  m: or, maybe
+- hanzi: 不过 
+  reading: bǔ gō
+  meaning: but (uncommon) 
+- hanzi: 但系 
+  reading: dān hēi
+  meaning: but
+- hanzi: 已经 
+  reading: yî gín
+  meaning: already
+- hanzi: 或者 
+  reading: vāk ziâ
+  meaning: maybe
+- hanzi: 可能 
+  reading: hô lěn
+  meaning: maybe
+- hanzi: 真系 
+  reading: zín hēi
+  meaning: really
+- hanzi: 好 
+  reading: hâu
+  meaning: very, good e.g. 好新 very new, 好好 very good
+- hanzi: 也 
+  reading: yá
+  meaning: also (but 都 more common)
+- hanzi: 都 
+  reading: dú
+  meaning: also
+- hanzi: 好似系，好似讲 
+  reading: hâw cî hēi, hâu cî gôŋ
+  meaning: for example
+- hanzi: 乜嘢 
+  reading: mǎt yâ
+  meaning: what
+- hanzi: 乜介 
+  reading: mǎd gēi
+  meaning: what
+- hanzi: 也係 
+  reading: yá hēi
+  meaning: or
+- hanzi: 还系 
+  reading: hǎn hēi
+  meaning: or (used in questions)
+- hanzi: 或者 
+  reading: wāg jiâ
+  meaning: or, maybe
 
 # ===============================================================================
 # Other
 # ===============================================================================
 
-- h: 按摩
-  r: ón mó
-  m: massage
+- hanzi: 按摩
+  reading: ón mó
+  meaning: massage
 
-- h: 隔离
-  r: gǎk lǐ
-  m: to do quarantine
+- hanzi: 隔离
+  reading: gǎk lǐ
+  meaning: to do quarantine
 
-- h: 准
-  r: zún
-  m: accurate
-- h: 挖
-  r: wǎt
-  m: to remove
-- h: 工厂
-  r: gúŋ côŋ
-  m: factory
-- h: 症状
-  r: dīn zōŋ
-  m: symptom
-- h: 尋事
-  r: cǐm sī̵
-  m: look for trouble
-- h: 法律
-  r: fǎt lūt
-  m: law
-- h: 封国
-  r: fúŋ gǒk
-  m: close the country
-- h: 封城
-  r: fúŋ sǎŋ
-  m: close the city
+- hanzi: 准
+  reading: zún
+  meaning: accurate
+- hanzi: 挖
+  reading: wǎt
+  meaning: to remove
+- hanzi: 工厂
+  reading: gúŋ côŋ
+  meaning: factory
+- hanzi: 症状
+  reading: dīn zōŋ
+  meaning: symptom
+- hanzi: 尋事
+  reading: cǐm sī̵
+  meaning: look for trouble
+- hanzi: 法律
+  reading: fǎt lūt
+  meaning: law
+- hanzi: 封国
+  reading: fúŋ gǒk
+  meaning: close the country
+- hanzi: 封城
+  reading: fúŋ sǎŋ
+  meaning: close the city
 
-- h: 救伤车
-  r: giū sóŋ cá
-  m: ambulance
+- hanzi: 救伤车
+  reading: giū sóŋ cá
+  meaning: ambulance
 
-- h: 十字车
-  r: sīp zī cá
-  m: ambulance (uncommon)
+- hanzi: 十字车
+  reading: sīp zī cá
+  meaning: ambulance (uncommon)
 
-- h: 白车
-  r: pāk cá
-  m: ambulance
+- hanzi: 白车
+  reading: pāk cá
+  meaning: ambulance
 
-- h: 百分比
-  r: bǎk fún
-  m: percentage
+- hanzi: 百分比
+  reading: bǎk fún
+  meaning: percentage
 
-- h: 丑闻
-  r: ciū mǔn
-  m: scandal
+- hanzi: 百分之百
+  reading: bǎk fūn zí bǎk
+  meaning: 100%, hundred percent
 
-- h: 直接
-  r: cīt cět
-  m: directly
+- hanzi: 丑闻
+  reading: ciū mǔn
+  meaning: scandal
 
-- h: 严重
-  r: yǎm zūŋ
-  m: serious
+- hanzi: 直接
+  reading: cīt cět
+  meaning: directly
+
+- hanzi: 严重
+  reading: yǎm zūŋ
+  meaning: serious
 
 
-- h: 笔
-  r: bǐt
-  m: pencil or pen (counting word 支 zí)
+- hanzi: 笔
+  reading: bǐt
+  meaning: pencil or pen (counting word 支 zí)
 
 
-- h: 中间人
-  r: zúŋ gán ñǐn
-  m: middleman
+- hanzi: 中间人
+  reading: zúŋ gán ñǐn
+  meaning: middleman
 
-- h: 人工
-  r: ñǐn gúŋ
-  m: salary
+- hanzi: 人工
+  reading: ñǐn gúŋ
+  meaning: salary
 
-- h: 农业  (nóngyè)
-  r: lǔŋ yāp
-  m: agriculture
+- hanzi: 农业  (nóngyè)
+  reading: lǔŋ yāp
+  meaning: agriculture
 
-- h: 外老
-  r: ŋōi lǎu
-  m: immigrant
+- hanzi: 外老
+  reading: ŋōi lǎu
+  meaning: immigrant
 
-- h: 跑步
-  r: pâu pū
-  m: to run
+- hanzi: 跑步
+  reading: pâu pū
+  meaning: to run
 
-- h: 请
-  r: qiâng
-  m: invite, hire
+- hanzi: 请
+  reading: qiâng
+  meaning: invite, hire
 
-- h: 小区 hood
-  r: siâu kí
-  m: neighbour
+- hanzi: 小区 hood
+  reading: siâu kí
+  meaning: neighbour
 
-- h: 衰
-  r: sói
-  m: bad, nasty
+- hanzi: 衰
+  reading: sói
+  meaning: bad, nasty
 
-- h: 衰东西
-  r: sói dúŋ sí
-  m: nasty or bad boy/girl
+- hanzi: 衰东西
+  reading: sói dúŋ sí
+  meaning: nasty or bad boy/girl
 
-- h: 衰嘢
-  r: sói yâ
+- hanzi: 衰嘢
+  reading: sói yâ
   see: [衰东西]
 
-- h: 梗系
-  r: gân hēi
-  m: obviously
-- h: 啱
-  r: ŋám
-  m: correct, correctly
-- h: 啱线
-  r: ŋám sēn
-  m: coincidentally
-- h: 隔离
-  r: gǎk lǐ
-  m: beside, nextdoors; quarantine
-- h: 完
-  r: wǒn
-  m: almost e.g. wǒn ñěn hói lō=
-- h: 闹钟
-  r: lāu zúŋ
-  m: alarm
-- h: 自由
-  r: zī yǔ
-  m: freedom
-- h: 单身
-  r: dán sín
-  m: siŋle i.e. not in a couple
-- h: 节日
-  r: zět ñǐt
-  m: festival
-- h: 假
-  r: gâ
-  m: fake, false
-- h: 锡纸
-  r: siǎk jǐ
-  m: aluminium paper
-- h: 恶
-  r: ǒk
-  m: angry, evil
-- h: 转
-  r: zôn
-  m: to return
-- h: 晓
-  r: hiâu
-  m: to know how to; future marker (like "will")
-- h: 亢身
-  r: hōŋ sín
-  m: to get up (in the morning)
-- h: 亢床
-  r: hōŋ chǒŋ
-  m: to get up (in the morning)
-- h: 视频
-  r: sī pǐn
-  m: video
-- h: 邓丽君
-  r: těn lēi giūn
-  m: Teresa Teng
-- h: 阵间
-  r: cēn gán
-  m: in a moment
+- hanzi: 梗系
+  reading: gân hēi
+  meaning: obviously
+- hanzi: 啱
+  reading: ŋám
+  meaning: correct, correctly
+- hanzi: 啱线
+  reading: ŋám sēn
+  meaning: coincidentally
+- hanzi: 隔离
+  reading: gǎk lǐ
+  meaning: beside, nextdoors; quarantine
+- hanzi: 完
+  reading: wǒn
+  meaning: almost e.g. wǒn ñěn hói lō
+- hanzi: 闹钟
+  reading: lāu zúŋ
+  meaning: alarm
+- hanzi: 自由
+  reading: zī yǔ
+  meaning: freedom
+- hanzi: 单身
+  reading: dán sín
+  meaning: siŋle i.e. not in a couple
+- hanzi: 节日
+  reading: zět ñǐt
+  meaning: festival
+- hanzi: 假
+  reading: gâ
+  meaning: fake, false
+- hanzi: 锡纸
+  reading: siǎk jǐ
+  meaning: aluminium paper
+- hanzi: 恶
+  reading: ǒk
+  meaning: angry, evil
+- hanzi: 转
+  reading: zôn
+  meaning: to return
+- hanzi: 晓
+  reading: hiâu
+  meaning: to know how to; future marker (like "will")
+- hanzi: 亢身
+  reading: hōŋ sín
+  meaning: to get up (in the morning)
+- hanzi: 亢床
+  reading: hōŋ chǒŋ
+  meaning: to get up (in the morning)
+- hanzi: 视频
+  reading: sī pǐn
+  meaning: video
+- hanzi: 邓丽君
+  reading: těn lēi giūn
+  meaning: Teresa Teng
+- hanzi: 阵间
+  reading: cēn gán
+  meaning: in a moment
+  tags: [Time]
 
-- h: 同埋
+- hanzi: 同埋
+  reading: tǔng mǎi
+  meaning: and
 
-  r: tǔng mǎi
-  m: and
+- hanzi: 所以
+  reading: sô yǐ
+  meaning: therefore
 
-- h: 所以
-  r: sô yǐ
-  m: therefore
+- hanzi: 麦片
+  reading: māk pén (but 片 is read pēn by itself)
+  meaning: cereal, müsli
 
-- h: 麦片
-  r: māk pén (but 片 is read pēn by itself)
-  m: cereal, müsli
+- hanzi: 灯笼椒
+  reading: dén lǔng ziáu
+  meaning: bell peper
 
-- h: 灯笼椒
-  r: dén lǔng jiáu
-  m: bell peper
+- hanzi: 辣椒
+  reading: lāt ziáu
+  meaning: chili pepper
 
-- h: 特别
-  r: tēt bět
-  m: especially
+- hanzi: 特别
+  reading: tēt bět
+  meaning: especially
 
-- h: 玻璃生菜
-  r: bǒ lǐ sáng cōi
-  m: iceberg lettuce
+- hanzi: 玻璃生菜
+  reading: bǒ lǐ sáng cōi
+  meaning: iceberg lettuce
+- hanzi: 晏晝
+  reading: ān ziū
+  meaning: lunch, noon
+- hanzi: 剪毛
+  reading: jiēn máu
+  meaning: cut hair
+- hanzi: 形容
+  reading: yǐn yǔng
+  meaning: describe
+- hanzi: 霉
+  reading: mǒi
+  meaning: to become moldy, mildewy
+- hanzi: 冷冻
+  reading: láng dūng
+  meaning: frozen
+
+- hanzi: 蒜米
+  reading: sōn mî
+  meaning: garlic (but more customary is 蒜头)
+
+- hanzi: 蒜头
+  reading: sōn těu 
+  meaning: garlic (but more customary is 蒜头)
+
+- hanzi: 生根
+  reading: sáng gín
+  meaning: tofu balls???
+- hanzi: 油炸鬼
+  reading: yǔ zā gūi
+  meaning: 油条 youtiao
+
+- hanzi: 姿势
+  reading: zí (zi̵) sēi
+  meaning: posture, 姿势好， 姿势唔好
+
+- hanzi: 察觉
+  reading: cǎt gǒk
+  meaning: aware, realise e.g. 冇察觉到 "didn't realise"
+
+- hanzi: 鼻鼾
+  reading: pī hǒn
+  meaning: snore
+
+- hanzi: 打直睡
+  reading: dâ qīt sōi
+  meaning: sleep on the back
+
+- reading: kǒ kǒ tiǎo
+  meaning: snore (colloquial)
+
+- hanzi: 侧睡
+  reading: jět sōi
+  meaning: to sleep on the side e.g. 打侧睡
+ 
+- hanzi: 
+  reading: lî māu
+
+- hanzi: 偏见
+  reading: pén gēn
+  meaning: prejudice, bias
+
+
+- hanzi: 公蕉
+  reading: banana
+  meaning: gúng jiáu (Malaysia)
+- hanzi: 蕉
+  reading: jiáu
+
+- hanzi: 柑
+  reading: gám
+  reading: mandarin orange
+- hanzi: 橘仔
+  reading: gǐt zēi
+  meaning: mandarin orange, calamansi
+
+- hanzi: 怕係
+  reading: pā hēi
+  meaning: perhaps, maybe
+
+
+- hanzi: 暈
+  reading: fǔn
+  meaning: dizzy
+
+- hanzi: 亂
+  reading: lōn
+  meaning: messy
+
+- hanzi: 危险
+  reading: ngěi hiâm
+  meaning: dangerous
+
+
+- hanzi: 急
+  reading: gǐp
+  meaning: rushed
+
+
+- hanzi: 緊張
+  reading: gîn zóng
+  meaning: nervous
+
+
+- hanzi: 高危
+  reading: gáu ngěi
+  meaning: high risk, high danger
+
+
+- hanzi: 一齊
+  reading: yǐt cěi
+  meaning: together
+
+
+- hanzi: 重要
+  reading: zūng yāu
+  meaning: important
+
+
+- hanzi: 得意
+  reading: děk yī
+  meaning: interesting; cute
+
+
+
+- hanzi: 意见
+  reading: yī gēn 
+  meaning: opinion
+  example:
+
+- hanzi: 照我来讲
+  reading: zāu ngǎi (lǒi) gōng
+  meaning: in my opinion
+
+- hanzi: 有意思
+  meaning: meaningful, has a purpose
+
+- hanzi: 诚意
+  reading: sǎng yī
+  meaning: sincerity
+
+- hanzi: 另外
+  reading: līng ngōi
+  meaning: another
+
+- hanzi: 需要
+  reading: súi yāu
+  meaning: to need
+  tags: [Verb]
+
+- hanzi: 想
+  reading: siông
+  meaning: to want
+
+- hanzi: 爱
+  reading: ōi
+  meaning: to love, to have to
+  examples:
+  - hanzi: ⺅厓愛做作业。
+    reading: ngǎi ōi zō zǒk nyāp.
+    meaning: I have to do homework.
+  - hanzi: 佢哋好愛佢
+    reading: giá dí hâu ōi gǐ
+    meaning: They love him/her.
+
+- hanzi: 打招呼
+  reading: dâ ziâu fû
+  meaning: to greet
+  example: 同一只人打招呼
+
+- hanzi: 影相
+  reading: yâng siōng
+  meaning: to take a picture
+
+- hanzi: 冚
+  reading: kêm
+  meaning: to cover
+
+- hanzi: 搵
+  reading: wûn
+  meaning: search
+
+- hanzi: 关于
+  reading: gán yí
+  meaning: about
+
+- hanzi:  选举
+  reading: sên gí
+  meaning: election (chosing of a representative)
