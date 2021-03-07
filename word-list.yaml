@@ -846,6 +846,7 @@
 - hanzi: 想
   reading: siông
   meaning: to want
+  tags: [Verb]
 
 - hanzi: 爱
   reading: ōi
@@ -870,6 +871,7 @@
 - hanzi: 冚
   reading: kêm
   meaning: to cover
+  tags: [Verb]
 
 - hanzi: 搵
   reading: wûn
@@ -882,3 +884,27 @@
 - hanzi:  选举
   reading: sên gí
   meaning: election (chosing of a representative)
+
+- hanzi:  选总统
+  reading: sên zûn tûŋ
+  meaning: elect a president
+
+- hanzi: 生意
+  reading: sáng yī
+  meaning: business
+
+- hanzi: 血压高
+  reading: hět ǎt gáu
+  meanign: elevated blod pressure, hypertension
+
+- hanzi: 登记
+  reading: dên gī
+  meaning: register
+
+- hanzi: 顶高
+  reading: dâŋ gáu
+  meaning: upstairs, above, on top
+
+- hanzi: 文件
+  reading: wŭn gēn
+  meaning: documents

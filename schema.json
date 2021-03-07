@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "/conlang1/word-list",
+  "title": "Word list schema for Conlang1",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "hanzi": {"type": "string"},
+      "reading": {"type": "string"},
+      "meaning": {"type": "string"},
+      "tags": {"type": "array", "items": {"type": "string"}},
+    },
+    "required": ["reading", "meaning"]
+  }
+}

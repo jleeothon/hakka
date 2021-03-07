@@ -53,8 +53,7 @@ precedent by Hanyu Pinyin.
 
 ### Tone
 
-There are four tones in Zhongshan Hakka. They are based on tones in Hanyu
-Pinyin.
+There are four tones in Zhongshan Hakka. The orthography is based on Hanyu Pinyin.
 
 | Name       | Tone | IPA |
 | ---------- | ---- | --- |
