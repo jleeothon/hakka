@@ -143,6 +143,7 @@
   meaning: Friday
 - hanzi: 礼拜六
   reading: lí bāi lǔk
+  meaning: Saturday
 - hanzi: 礼拜
   reading: lí bāi
   meaning: Week; Sunday
@@ -409,30 +410,39 @@
   meaning: five
 - hanzi: 六
   reading: lǔk
+  meaning: six
   tags: [Numbers]
 - hanzi: 七
   reading: qǐt
+  meaning: seven
   tags: [Numbers]
 - hanzi: 八
   reading: bǎt
+  meaning: eight
   tags: [Numbers]
 - hanzi: 九
   reading: giû
+  meaning: nine
   tags: [Numbers]
 - hanzi: 十
   reading: sīp
+  meaning: ten
   tags: [Numbers]
 - hanzi: 廿
   reading: nyīp
+  meaning: twenty
   tags: [Numbers]
 - hanzi: 百
   reading: bǎk
+  meaning: hundred
   tags: [Numbers]
 - hanzi: 千
   reading: cén
+  meaning: thousand
   tags: [Numbers]
 - hanzi: 万
   reading: mān
+  meaning: ten thousand
   tags: [Numbers]
 
 # ===============================================================================
@@ -598,14 +608,15 @@
 
 - hanzi: 衰
   reading: sói
-  meaning: bad, nasty
+  meaning: bad, nasty, naughty
 
 - hanzi: 衰东西
   reading: sói dúŋ sí
-  meaning: nasty or bad boy/girl
+  meaning: nasty or naughty boy/girl
 
 - hanzi: 衰嘢
   reading: sói yâ
+  meaning: nasty or naughty boy/girl
   see: [衰东西]
 
 - hanzi: 梗系
@@ -748,8 +759,10 @@
   reading: jět sōi
   meaning: to sleep on the side e.g. 打侧睡
  
-- hanzi: 
-  reading: lî māu
+- hanzi: 礼貌
+  reading: lî māu (or lí māu?)
+  meaning: courtesy, politeness
+
 
 - hanzi: 偏见
   reading: pén gēn
@@ -759,12 +772,15 @@
 - hanzi: 公蕉
   reading: banana
   meaning: gúng jiáu (Malaysia)
+  tags: [Food, Noun, Plants]
 - hanzi: 蕉
   reading: jiáu
+  meaning: banana
+  tags: [Food, Noun, Plants]
 
 - hanzi: 柑
   reading: gám
-  reading: mandarin orange
+  meaning: mandarin orange
 - hanzi: 橘仔
   reading: gǐt zēi
   meaning: mandarin orange, calamansi
@@ -828,6 +844,7 @@
   meaning: in my opinion
 
 - hanzi: 有意思
+  reading: yú yī sí̵
   meaning: meaningful, has a purpose
 
 - hanzi: 诚意
@@ -895,7 +912,7 @@
 
 - hanzi: 血压高
   reading: hět ǎt gáu
-  meanign: elevated blod pressure, hypertension
+  meaning: elevated blod pressure, hypertension
 
 - hanzi: 登记
   reading: dên gī
