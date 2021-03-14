@@ -19,6 +19,7 @@
   "homepage": "https://github.com/jleeothon/hakka#readme",
   "dependencies": {
     "ajv-cli": "^4.1.0",
+    "filter-obj": "^2.0.1",
     "mapsort": "^1.0.4",
     "yaml": "^1.10.0"
   }
