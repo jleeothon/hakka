@@ -6,7 +6,6 @@ const filterObj = require('filter-obj');
 
 const entries = YAML.parse(readFileSync(0, 'utf-8'));
 
-
 const prettyEntries = entries.map(entry => {
     const {hanzi, reading, meaning, tags, ...rest} = entry;
     if (tags && tags instanceof Array) {
