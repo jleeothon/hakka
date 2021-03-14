@@ -1,0 +1,25 @@
+{
+  "name": "hakka",
+  "version": "0.1.0",
+  "description": "Description of Zhongshan Hakka",
+  "main": "index.js",
+  "scripts": {
+    "test": "ajv --all-errors -s schema.json -d word-list.yaml",
+    "sort-and-replace": "bin/sort-and-replace.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jleeothon/hakka.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jleeothon/hakka/issues"
+  },
+  "homepage": "https://github.com/jleeothon/hakka#readme",
+  "dependencies": {
+    "ajv-cli": "^4.1.0",
+    "mapsort": "^1.0.4",
+    "yaml": "^1.10.0"
+  }
+}
