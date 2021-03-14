@@ -1,7 +1,8 @@
 const YAML = require('yaml');
 const {readFileSync} = require('fs');
 
-const mapsort = require('mapsort');
+const mapSort = require('mapsort');
+const filterObj = require('filter-obj');
 
 const entries = YAML.parse(readFileSync(0, 'utf-8'));
 
@@ -14,10 +15,11 @@ const prettyEntries = entries.map(entry => {
     if (rest && rest instanceof Array) {
         rest.sort((a, b) => a > b);
     }
-    return {hanzi, reading, meaning, tags, ...rest};
+
+    return filterObj({hanzi, reading, meaning, tags, ...rest}, (k, v) => v);
 });
 
-const sortedPrettyEntries = mapsort(
+const sortedPrettyEntries = mapSort(
 	prettyEntries,
 	(entry) => entry.reading,
 	(reading1, reading2) => reading1.localeCompare(reading2)

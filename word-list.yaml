@@ -7,7 +7,6 @@
 - hanzi: 晏晝
   reading: ān ziū
   meaning: lunch, noon
-  tags: null
 - hanzi: 百
   reading: bǎk
   meaning: hundred
@@ -16,11 +15,9 @@
 - hanzi: 百分比
   reading: bǎk fún
   meaning: percentage
-  tags: null
 - hanzi: 百分之百
   reading: bǎk fūn zí bǎk
   meaning: 100%, hundred percent
-  tags: null
 - hanzi: 公蕉
   reading: banana
   meaning: gúng jiáu (Malaysia)
@@ -53,15 +50,12 @@
 - hanzi: 笔
   reading: bǐt
   meaning: pencil or pen (counting word 支 zí)
-  tags: null
 - hanzi: 玻璃生菜
   reading: bǒ lǐ sáng cōi
   meaning: iceberg lettuce
-  tags: null
 - hanzi: 不过
   reading: bǔ gō
   meaning: but (uncommon)
-  tags: null
 - hanzi: 尋日
   reading: cám ñǐt
   meaning: yesterday
@@ -70,7 +64,6 @@
 - hanzi: 察觉
   reading: cǎt gǒk
   meaning: aware, realise e.g. 冇察觉到 "didn't realise"
-  tags: null
 - hanzi: 千
   reading: cén
   meaning: thousand
@@ -81,8 +74,7 @@
   meaning: in a moment
   tags:
     - Time
-- hanzi: null
-  reading: cēƞ gán
+- reading: cēƞ gán
   meaning: soon
   tags:
     - Time
@@ -94,19 +86,15 @@
 - hanzi: 匙羹
   reading: cǐ gáŋ
   meaning: spool
-  tags: null
 - hanzi: 尋事
   reading: cǐm sī̵
   meaning: look for trouble
-  tags: null
 - hanzi: 直接
   reading: cīt cět
   meaning: directly
-  tags: null
 - hanzi: 丑闻
   reading: ciū mǔn
   meaning: scandal
-  tags: null
 - hanzi: 从来
   reading: cǔƞ lǒi
   meaning: never (used with negative verb)
@@ -121,36 +109,28 @@
 - hanzi: 打直睡
   reading: dâ qīt sōi
   meaning: sleep on the back
-  tags: null
 - hanzi: 打招呼
   reading: dâ ziâu fû
   meaning: to greet
-  tags: null
   example: 同一只人打招呼
 - hanzi: 但系
   reading: dān hēi
   meaning: but
-  tags: null
 - hanzi: 单身
   reading: dán sín
   meaning: siŋle i.e. not in a couple
-  tags: null
 - hanzi: 顶高
   reading: dâŋ gáu
   meaning: upstairs, above, on top
-  tags: null
 - hanzi: 得意
   reading: děk yī
   meaning: interesting; cute
-  tags: null
 - hanzi: 登记
   reading: dên gī
   meaning: register
-  tags: null
 - hanzi: 灯笼椒
   reading: dén lǔng ziáu
   meaning: bell peper
-  tags: null
 - hanzi: 鵰仔
   reading: diáu zêi
   meaning: bird
@@ -159,11 +139,9 @@
 - hanzi: 症状
   reading: dīn zōŋ
   meaning: symptom
-  tags: null
 - hanzi: 都
   reading: dú
   meaning: also
-  tags: null
 - hanzi: 动物
   reading: dūƞ mūt
   meaning: animal
@@ -184,31 +162,24 @@
 - hanzi: 法律
   reading: fǎt lūt
   meaning: law
-  tags: null
 - hanzi: 房租
   reading: fǒŋ zú
   meaning: rent (for a room)
-  tags: null
 - hanzi: 裤袋
   reading: fū tōi
   meaning: pocket
-  tags: null
 - hanzi: 暈
   reading: fǔn
   meaning: dizzy
-  tags: null
 - hanzi: 封国
   reading: fúŋ gǒk
   meaning: close the country
-  tags: null
 - hanzi: 封城
   reading: fúŋ sǎŋ
   meaning: close the city
-  tags: null
 - hanzi: 假
   reading: gâ
   meaning: fake, false
-  tags: null
 - hanzi: 假期
   reading: gā kǐ
   meaning: holiday
@@ -217,39 +188,29 @@
 - hanzi: 加租
   reading: gá zú
   meaning: increase rent e.g. ŋá fǒŋ zú yū gá hói
-  tags: null
 - hanzi: 隔离
   reading: gǎk lǐ
   meaning: to do quarantine
-  tags: null
 - hanzi: 隔离
   reading: gǎk lǐ
   meaning: beside, nextdoors; quarantine
-  tags: null
 - hanzi: 柑
   reading: gám
   meaning: mandarin orange
-  tags: null
 - hanzi: 减租
   reading: gâm zú
   meaning: decrease rent
-  tags: null
 - hanzi: 梗系
   reading: gân hēi
   meaning: obviously
-  tags: null
 - hanzi: 关于
   reading: gán yí
   meaning: about
-  tags: null
-- hanzi: null
-  reading: gāu
+- reading: gāu
   meaning: install, e.g. curtains
-  tags: null
 - hanzi: 高危
   reading: gáu ngěi
   meaning: high risk, high danger
-  tags: null
 - hanzi: 狗
   reading: gêu
   meaning: dog
@@ -258,11 +219,9 @@
 - hanzi: 几久
   reading: gî giû
   meaning: how long
-  tags: null
 - hanzi: 几久……一摆 / 几久……一次
   reading: gî giû……yǐt bâi / gî giû……yǐt cī
   meaning: how often
-  tags: null
   example: “你几久去韩国？”“我半年去一摆。每三只月去一摆”。(多久 in Mandarin)
 - hanzi: 今日
   reading: gím ñǐt _or_ gí ñǐt
@@ -277,15 +236,12 @@
 - hanzi: 緊張
   reading: gîn zóng
   meaning: nervous
-  tags: null
 - hanzi: 急
   reading: gǐp
   meaning: rushed
-  tags: null
 - hanzi: 橘仔
   reading: gǐt zēi
   meaning: mandarin orange, calamansi
-  tags: null
 - hanzi: 九
   reading: giû
   meaning: nine
@@ -294,7 +250,6 @@
 - hanzi: 救伤车
   reading: giū sóŋ cá
   meaning: ambulance
-  tags: null
 - hanzi: 年中
   reading: gněn zóƞ
   meaning: middle of the year
@@ -308,19 +263,15 @@
 - hanzi: 公寓
   reading: gúƞ yí
   meaning: apartment (uncommon)
-  tags: null
 - hanzi: 工厂
   reading: gúŋ côŋ
   meaning: factory
-  tags: null
 - hanzi: 下 (1)
   reading: há
   meaning: down, downwards, to come down
-  tags: null
 - hanzi: 下 (2)
   reading: hā
   meaning: next, usually used with a counting word
-  tags: null
   example: 下只礼拜 (hā zǎk lí bāi) next week
 - hanzi: 下年
   reading: hā ñěn
@@ -330,11 +281,9 @@
 - hanzi: 还系
   reading: hǎn hēi
   meaning: or (used in questions)
-  tags: null
 - hanzi: 好
   reading: hâu
   meaning: very, good e.g. 好新 very new, 好好 very good
-  tags: null
 - hanzi: 好少
   reading: hâu sâu
   meaning: rarely
@@ -343,11 +292,9 @@
 - hanzi: 好似系，好似讲
   reading: hâw cî hēi, hâu cî gôŋ
   meaning: for example
-  tags: null
 - hanzi: 血压高
   reading: hět ǎt gáu
   meaning: elevated blod pressure, hypertension
-  tags: null
 - hanzi: 猴哥
   reading: hěu gó
   meaning: monkey (uncommon)
@@ -356,7 +303,6 @@
 - hanzi: 晓
   reading: hiâu
   meaning: to know how to; future marker (like "will")
-  tags: null
 - hanzi: 乡村
   reading: hióŋ cún
   meaning: village
@@ -365,23 +311,18 @@
 - hanzi: 乡下
   reading: hióŋ hā
   meaning: countryside; hometown
-  tags: null
 - hanzi: 可能
   reading: hô lěn
   meaning: maybe
-  tags: null
 - hanzi: 亢床
   reading: hōŋ chǒŋ
   meaning: to get up (in the morning)
-  tags: null
 - hanzi: 亢身
   reading: hōŋ sín
   meaning: to get up (in the morning)
-  tags: null
 - hanzi: 侧睡
   reading: jět sōi
   meaning: to sleep on the side e.g. 打侧睡
-  tags: null
 - hanzi: 蕉
   reading: jiáu
   meaning: banana
@@ -392,7 +333,6 @@
 - hanzi: 剪毛
   reading: jiēn máu
   meaning: cut hair
-  tags: null
 - hanzi: 冚
   reading: kêm
   meaning: to cover
@@ -409,22 +349,17 @@
   meaning: last year
   tags:
     - Time
-- hanzi: null
-  reading: kǒ kǒ tiǎo
+- reading: kǒ kǒ tiǎo
   meaning: snore (colloquial)
-  tags: null
 - hanzi: 冷冻
   reading: láng dūng
   meaning: frozen
-  tags: null
 - hanzi: 辣椒
   reading: lāt ziáu
   meaning: chili pepper
-  tags: null
 - hanzi: 闹钟
   reading: lāu zúŋ
   meaning: alarm
-  tags: null
 - hanzi: 礼拜
   reading: lí bāi
   meaning: week
@@ -433,47 +368,36 @@
 - hanzi: 礼拜
   reading: lí bāi
   meaning: Week; Sunday
-  tags: null
 - hanzi: 礼拜六
   reading: lí bāi lǔk
   meaning: Saturday
-  tags: null
 - hanzi: 礼拜五
   reading: lí bāi n̂g
   meaning: Friday
-  tags: null
 - hanzi: 礼拜二
   reading: lí bāi ñī
   meaning: Tuesday
-  tags: null
 - hanzi: 礼拜三
   reading: lí bāi sám
   meaning: Wednesday
-  tags: null
 - hanzi: 礼拜四
   reading: lí bāi sī
   meaning: Thursday
-  tags: null
 - hanzi: 礼拜一
   reading: lí bāi yǐt
   meaning: Monday
-  tags: null
 - hanzi: 礼貌
   reading: lî māu (or lí māu?)
-  meaning: courtesy, politeness
-  tags: null
+  meaning: courtesy, politeness e.g. "有礼貌 / 冇礼貌" _to be polite or impolite"
 - hanzi: 另外
   reading: līng ngōi
   meaning: another
-  tags: null
 - hanzi: 量词
   reading: liōŋ cī
   meaning: classifier, counting word
-  tags: null
 - hanzi: 亂
   reading: lōn
   meaning: messy
-  tags: null
 - hanzi: 芦笋
   reading: lǔ sún
   meaning: asparagus
@@ -488,11 +412,9 @@
 - hanzi: 邻舍
   reading: lǔn sā
   meaning: neighbour
-  tags: null
 - hanzi: 农业  (nóngyè)
   reading: lǔŋ yāp
   meaning: agriculture
-  tags: null
 - hanzi: 马
   reading: má
   meaning: horse
@@ -511,11 +433,9 @@
 - hanzi: 乜介
   reading: mǎd gēi
   meaning: what
-  tags: null
 - hanzi: 麦片
   reading: māk pén (but 片 is read pēn by itself)
   meaning: cereal, müsli
-  tags: null
 - hanzi: 吂
   reading: mǎn
   meaning: not yet
@@ -543,7 +463,6 @@
 - hanzi: 乜嘢
   reading: mǎt yâ
   meaning: what
-  tags: null
 - hanzi: 冇几久
   reading: mǎu gî giû
   meaning: not long ago, just now
@@ -567,7 +486,6 @@
 - hanzi: 霉
   reading: mǒi
   meaning: to become moldy, mildewy
-  tags: null
 - hanzi: 年
   reading: ñěn
   meaning: year
@@ -581,7 +499,6 @@
 - hanzi: 危险
   reading: ngěi hiâm
   meaning: dangerous
-  tags: null
 - hanzi: 二
   reading: ñī
   meaning: two
@@ -590,7 +507,6 @@
 - hanzi: 人工
   reading: ñǐn gúŋ
   meaning: salary
-  tags: null
 - hanzi: 日
   reading: ñǐt
   meaning: day
@@ -624,7 +540,6 @@
 - hanzi: 啱
   reading: ŋám
   meaning: correct, correctly
-  tags: null
 - hanzi: 啱先
   reading: ŋám sēn
   meaning: just now, a moment ago
@@ -635,15 +550,12 @@
 - hanzi: 啱线
   reading: ŋám sēn
   meaning: coincidentally
-  tags: null
 - hanzi: 外老
   reading: ŋōi lǎu
   meaning: immigrant
-  tags: null
 - hanzi: 爱
   reading: ōi
   meaning: to love, to have to
-  tags: null
   examples:
     - hanzi: ⺅厓愛做作业。
       reading: ngǎi ōi zō zǒk nyāp.
@@ -654,39 +566,30 @@
 - hanzi: 恶
   reading: ǒk
   meaning: angry, evil
-  tags: null
 - hanzi: 按摩
   reading: ón mó
   meaning: massage
-  tags: null
 - hanzi: 怕係
   reading: pā hēi
   meaning: perhaps, maybe
-  tags: null
 - hanzi: 排屋
   reading: pǎi ǔk
   meaning: landed house
-  tags: null
 - hanzi: 白车
   reading: pāk cá
   meaning: ambulance
-  tags: null
 - hanzi: 跑步
   reading: pâu pū
   meaning: to run
-  tags: null
 - hanzi: 偏见
   reading: pén gēn
   meaning: prejudice, bias
-  tags: null
 - hanzi: 被
   reading: pí
   meaning: blanket, duvet
-  tags: null
 - hanzi: 鼻鼾
   reading: pī hǒn
   meaning: snore
-  tags: null
 - hanzi: 平时
   reading: pǐn sǐ
   meaning: usually
@@ -695,7 +598,6 @@
 - hanzi: 请
   reading: qiâng
   meaning: invite, hire
-  tags: null
 - hanzi: 七
   reading: qǐt
   meaning: seven
@@ -704,19 +606,15 @@
 - hanzi: 三
   reading: sám
   meaning: three
-  tags: null
 - hanzi: 生根
   reading: sáng gín
   meaning: tofu balls???
-  tags: null
 - hanzi: 生意
   reading: sáng yī
   meaning: business
-  tags: null
 - hanzi: 诚意
   reading: sǎng yī
   meaning: sincerity
-  tags: null
 - hanzi: 成日
   reading: sǎƞ ñǐt
   meaning: often, always
@@ -735,11 +633,9 @@
 - hanzi: 选举
   reading: sên gí
   meaning: election (chosing of a representative)
-  tags: null
 - hanzi: 选总统
   reading: sên zûn tûŋ
   meaning: elect a president
-  tags: null
 - hanzi: 四
   reading: sī
   meaning: four
@@ -753,15 +649,12 @@
 - hanzi: 视频
   reading: sī pǐn
   meaning: video
-  tags: null
 - hanzi: 锡纸
   reading: siǎk jǐ
   meaning: aluminium paper
-  tags: null
 - hanzi: 小区 hood
   reading: siâu kí
   meaning: neighbour
-  tags: null
 - hanzi: 星期
   reading: sín kǐ
   meaning: week (less common)
@@ -785,7 +678,6 @@
 - hanzi: 十字车
   reading: sīp zī cá
   meaning: ambulance (uncommon)
-  tags: null
 - hanzi: 首尔
   reading: siû nî
   meaning: Seoul
@@ -794,41 +686,32 @@
 - hanzi: 锁匙
   reading: sô sǐ
   meaning: key
-  tags: null
 - hanzi: 所以
   reading: sô yǐ
   meaning: therefore
-  tags: null
 - hanzi: 衰
   reading: sói
   meaning: bad, nasty, naughty
-  tags: null
 - hanzi: 衰东西
   reading: sói dúŋ sí
   meaning: nasty or naughty boy/girl
-  tags: null
 - hanzi: 衰嘢
   reading: sói yâ
   meaning: nasty or naughty boy/girl
-  tags: null
   see:
     - 衰东西
 - hanzi: 蒜米
   reading: sōn mî
   meaning: garlic (but more customary is 蒜头)
-  tags: null
 - hanzi: 蒜头
   reading: sōn těu
   meaning: garlic (but more customary is 蒜头)
-  tags: null
 - hanzi: 上 (1)
   reading: sóƞ
   meaning: up, upwards, to go up
-  tags: null
 - hanzi: 上 (2)
   reading: sōƞ
   meaning: previous or last
-  tags: null
   example: 上只礼拜 (sōƞ zǎk lí bāi) last week
 - hanzi: 薯仔
   reading: sǔ zêi
@@ -844,15 +727,12 @@
 - hanzi: 宿舍
   reading: sǔk siā
   meaning: dormitory
-  tags: null
 - hanzi: 邓丽君
   reading: těn lēi giūn
   meaning: Teresa Teng
-  tags: null
 - hanzi: 特别
   reading: tēt bět
   meaning: especially
-  tags: null
 - hanzi: 地豆
   reading: tī tēu
   meaning: peanut
@@ -862,11 +742,9 @@
 - hanzi: 地主
   reading: tī zú
   meaning: owner of the plot of land
-  tags: null
 - hanzi: 同埋
   reading: tǔng mǎi
   meaning: and
-  tags: null
 - hanzi: 通常
   reading: túƞsǒƞ
   meaning: usually
@@ -875,75 +753,57 @@
 - hanzi: 屋主
   reading: ǔk zú
   meaning: house owner
-  tags: null
 - hanzi: 或者
   reading: vāk ziâ
   meaning: maybe
-  tags: null
 - hanzi: 或者
   reading: wāg jiâ
   meaning: or, maybe
-  tags: null
 - hanzi: 挖
   reading: wǎt
   meaning: to remove
-  tags: null
 - hanzi: 完
   reading: wǒn
   meaning: almost e.g. wǒn ñěn hói lō
-  tags: null
 - hanzi: 搵
   reading: wûn
   meaning: search
-  tags: null
 - hanzi: 文件
   reading: wŭn gēn
   meaning: documents
-  tags: null
 - hanzi: 星期六
   reading: xíƞ kǐ lǔk
   meaning: Saturday
-  tags: null
 - hanzi: 星期五
   reading: xíƞ kǐ n̂g
   meaning: Friday
-  tags: null
 - hanzi: 星期二
   reading: xíƞ kǐ ñī
   meaning: Tuesday
-  tags: null
 - hanzi: 星期日
   reading: xíƞ kǐ ñǐt
   meaning: Sunday
-  tags: null
 - hanzi: 星期三
   reading: xíƞ kǐ sám
   meaning: Wednesday
-  tags: null
 - hanzi: 星期四
   reading: xíƞ kǐ sī
   meaning: Thursday
-  tags: null
 - hanzi: 星期一
   reading: xíƞ kǐ yǐt
   meaning: Monday
-  tags: null
 - hanzi: 也
   reading: yá
   meaning: also (but 都 more common)
-  tags: null
 - hanzi: 也係
   reading: yá hēi
   meaning: or
-  tags: null
 - hanzi: 严重
   reading: yǎm zūŋ
   meaning: serious
-  tags: null
 - hanzi: 影相
   reading: yâng siōng
   meaning: to take a picture
-  tags: null
 - hanzi: 腰豆
   reading: yáu têu
   meaning: cashew nut
@@ -953,12 +813,9 @@
 - hanzi: 意见
   reading: yī gēn
   meaning: opinion
-  tags: null
-  example: null
 - hanzi: 已经
   reading: yî gín
   meaning: already
-  tags: null
 - hanzi: 印尼
   reading: yīn lǐ
   meaning: Indonesia
@@ -967,7 +824,6 @@
 - hanzi: 形容
   reading: yǐn yǔng
   meaning: describe
-  tags: null
 - hanzi: 一
   reading: yǐt
   meaning: one
@@ -976,7 +832,6 @@
 - hanzi: 一齊
   reading: yǐt cěi
   meaning: together
-  tags: null
 - hanzi: 一直
   reading: yǐt cīt
   meaning: always
@@ -996,11 +851,9 @@
 - hanzi: 有意思
   reading: yú yī sí̵
   meaning: meaningful, has a purpose
-  tags: null
 - hanzi: 油炸鬼
   reading: yǔ zā gūi
   meaning: 油条 youtiao
-  tags: null
 - hanzi: 正先
   reading: zān sén
   meaning: just now, a moment ago
@@ -1011,23 +864,18 @@
 - hanzi: 照我来讲
   reading: zāu ngǎi (lǒi) gōng
   meaning: in my opinion
-  tags: null
 - hanzi: 节日
   reading: zět ñǐt
   meaning: festival
-  tags: null
 - hanzi: 姿势
   reading: zí (zi̵) sēi
   meaning: posture, 姿势好， 姿势唔好
-  tags: null
 - hanzi: 自由
   reading: zī yǔ
   meaning: freedom
-  tags: null
 - hanzi: 枕头
   reading: zîm těu
   meaning: pillow
-  tags: null
 - hanzi: 镇
   reading: zīn
   meaning: town
@@ -1036,7 +884,6 @@
 - hanzi: 真系
   reading: zín hēi
   meaning: really
-  tags: null
 - hanzi: 州
   reading: ziú
   meaning: state
@@ -1045,7 +892,6 @@
 - hanzi: 转
   reading: zôn
   meaning: to return
-  tags: null
 - hanzi: 猪
   reading: zú
   meaning: pig
@@ -1054,15 +900,12 @@
 - hanzi: 准
   reading: zún
   meaning: accurate
-  tags: null
 - hanzi: 重要
   reading: zūng yāu
   meaning: important
-  tags: null
 - hanzi: 中间人
   reading: zúŋ gán ñǐn
   meaning: middleman
-  tags: null
 - hanzi: 中国
   reading: zúŋ gǒk
   meaning: China
