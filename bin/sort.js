@@ -15,7 +15,9 @@ const prettyEntries = entries.map(entry => {
         rest.sort((a, b) => a > b);
     }
 
-    return filterObj({hanzi, reading, meaning, tags, ...rest}, (k, v) => v);
+    const newEntry = {hanzi, reading, meaning, tags, ...rest};
+
+    return filterObj(newEntry, (k, v) => v);
 });
 
 const sortedPrettyEntries = mapSort(
