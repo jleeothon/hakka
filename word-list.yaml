@@ -64,6 +64,12 @@
 - hanzi: 察觉
   reading: cǎt gǒk
   meaning: aware, realise e.g. 冇察觉到 "didn't realise"
+- hanzi: 齐
+  reading: cěi
+  meaning: together
+- hanzi: 齐家
+  reading: cěi gá
+  meaning: everyone, everybody
 - hanzi: 千
   reading: cén
   meaning: thousand
@@ -89,6 +95,10 @@
 - hanzi: 尋事
   reading: cǐm sī̵
   meaning: look for trouble
+- hanzi: 曾经
+  reading: cǐn gín
+  meaning: used to
+  example: ???
 - hanzi: 直接
   reading: cīt cět
   meaning: directly
@@ -162,6 +172,9 @@
 - hanzi: 法律
   reading: fǎt lūt
   meaning: law
+- hanzi: 灰色
+  reading: fói sět
+  meaning: gray
 - hanzi: 房租
   reading: fǒŋ zú
   meaning: rent (price for a room or apartment); renter?
@@ -188,6 +201,10 @@
 - hanzi: 加租
   reading: gá zú
   meaning: increase rent e.g. ŋá fǒŋ zú yū gá hói
+- hanzi: 解释
+  reading: gâi sǐt
+  meaning: to explain e.g. ⟨我解释该只事畀你⟩ (ŋǎi gâi sǐt gói zǎk sī bí ñǐ) "I explain
+    this to you"
 - hanzi: 隔离
   reading: gǎk lǐ
   meaning: to do quarantine
@@ -208,9 +225,15 @@
   meaning: about
 - reading: gāu
   meaning: install, e.g. curtains
+- hanzi: 告
+  reading: gāu
+  meaning: to sue
 - hanzi: 高危
   reading: gáu ngěi
   meaning: high risk, high danger
+- hanzi: 健康
+  reading: gēn hóng
+  meaning: health
 - hanzi: 狗
   reading: gêu
   meaning: dog
@@ -255,11 +278,28 @@
   meaning: middle of the year
   tags:
     - Time
+- hanzi: 过敏
+  reading: gō mân
+  meaning: allergy
+- hanzi: 该
+  reading: gói
+  meaning: here, this
+  tags:
+    - Demonstrative
 - hanzi: 国家
   reading: gǒk gá
   meaning: country
   tags:
     - Geography
+- hanzi: 赶
+  reading: gôn
+  meaning: to rush, also 赶时间 (gôn sǐ̵ gān)
+- hanzi: 古板
+  reading: gû bân
+  meaning: old-fashioned and obstinate
+- hanzi: 古老
+  reading: gû lâu
+  meaning: ancient, old-fashioned
 - hanzi: 公寓
   reading: gúƞ yí
   meaning: apartment (uncommon)
@@ -507,6 +547,9 @@
 - hanzi: 人工
   reading: ñǐn gúŋ
   meaning: salary
+- hanzi: 人口
+  reading: ñǐn hêu
+  meaning: population
 - hanzi: 日
   reading: ñǐt
   meaning: day
@@ -630,6 +673,9 @@
   meaning: city
   tags:
     - Geography
+- hanzi: 细佬哥
+  reading: sēi lâu gó
+  meaning: child (not common in Zhongshan)
 - hanzi: 选举
   reading: sên gí
   meaning: election (chosing of a representative)
@@ -750,6 +796,9 @@
   meaning: usually
   tags:
     - Time
+- hanzi: 屋下 / 屋家
+  reading: ǔk há (but I always realised it as "ǔk ká")
+  meaning: house, home
 - hanzi: 屋主
   reading: ǔk zú
   meaning: house owner
@@ -873,6 +922,13 @@
 - hanzi: 自由
   reading: zī yǔ
   meaning: freedom
+- hanzi: 僬仔
+  reading: ziǎu zêi
+  meaning: child
+- hanzi: 剪毛
+  reading: ziên máu
+  meaning: to cut hair, to have a haircut e.g. ⟨佢剪我毛⟩ (gǐ ziên ŋá máu) "He/she
+    cuts my hair", ⟨我剪[开?]毛⟩ (ŋái jiên hói máu) "I already had a haircut"
 - hanzi: 枕头
   reading: zîm těu
   meaning: pillow
@@ -911,57 +967,4 @@
   meaning: China
   tags:
     - Geography
-- hanzi: 人口
-  reading: ñǐn hêu
-  meaning: population
-- hanzi: 健康
-  reading: gēn hóng
-  meaning: health
-- hanzi: 灰色
-  reading: fói sět
-  meaning: gray
-- hanzi: 赶
-  reading: gôn
-  meaning: to rush, also 赶时间 (gôn sǐ̵ gān)
-- hanzi: 过敏
-  reading: gō mân
-  meaning: allergy
-- hanzi: 告
-  reading: gāu
-  meaning: to sue
-- hanzi: 细佬哥
-  reading: sēi lâu gó
-  meaning: child (not common in Zhongshan)
-- hanzi: 僬仔
-  reading: ziǎu zêi
-  meaning: child
-- hanzi: 曾经
-  reading: cǐn gín
-  meaning: used to
-  example: "???"
-- hanzi: 解释
-  reading: gâi sǐt
-  meaning: to explain e.g. ⟨我解释该只事畀你⟩ (ŋǎi gâi sǐt gói zǎk sī bí ñǐ) "I explain this to you"
-- hanzi: 古板
-  reading: gû bân
-  meaning: old-fashioned and obstinate
-- hanzi: 古老
-  reading: gû lâu
-  meaning: ancient, old-fashioned
-- hanzi: 剪毛
-  reading: ziên máu
-  meaning: to cut hair, to have a haircut e.g. ⟨佢剪我毛⟩ (gǐ ziên ŋá máu) "He/she cuts my hair", ⟨我剪[开?]毛⟩ (ŋái jiên hói máu) "I already had a haircut"
-- hanzi: 该
-  reading: gói
-  meaning: here, this
-  tags: [Demonstrative]
-- hanzi: 齐
-  meaning: together
-  reading: cěi
-- hanzi: 齐家
-  meaning: everyone, everybody
-  reading: cěi gá
-- hanzi: 屋下 / 屋家
-  meaning: house, home
-  reading: ǔk há (but I always realised it as "ǔk ká")
 
