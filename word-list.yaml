@@ -164,7 +164,7 @@
   meaning: law
 - hanzi: 房租
   reading: fǒŋ zú
-  meaning: rent (for a room)
+  meaning: rent (price for a room or apartment); renter?
 - hanzi: 裤袋
   reading: fū tōi
   meaning: pocket
@@ -911,4 +911,57 @@
   meaning: China
   tags:
     - Geography
+- hanzi: 人口
+  reading: ñǐn hêu
+  meaning: population
+- hanzi: 健康
+  reading: gēn hóng
+  meaning: health
+- hanzi: 灰色
+  reading: fói sět
+  meaning: gray
+- hanzi: 赶
+  reading: gôn
+  meaning: to rush, also 赶时间 (gôn sǐ̵ gān)
+- hanzi: 过敏
+  reading: gō mân
+  meaning: allergy
+- hanzi: 告
+  reading: gāu
+  meaning: to sue
+- hanzi: 细佬哥
+  reading: sēi lâu gó
+  meaning: child (not common in Zhongshan)
+- hanzi: 僬仔
+  reading: ziǎu zêi
+  meaning: child
+- hanzi: 曾经
+  reading: cǐn gín
+  meaning: used to
+  example: "???"
+- hanzi: 解释
+  reading: gâi sǐt
+  meaning: to explain e.g. ⟨我解释该只事畀你⟩ (ŋǎi gâi sǐt gói zǎk sī bí ñǐ) "I explain this to you"
+- hanzi: 古板
+  reading: gû bân
+  meaning: old-fashioned and obstinate
+- hanzi: 古老
+  reading: gû lâu
+  meaning: ancient, old-fashioned
+- hanzi: 剪毛
+  reading: ziên máu
+  meaning: to cut hair, to have a haircut e.g. ⟨佢剪我毛⟩ (gǐ ziên ŋá máu) "He/she cuts my hair", ⟨我剪[开?]毛⟩ (ŋái jiên hói máu) "I already had a haircut"
+- hanzi: 该
+  reading: gói
+  meaning: here, this
+  tags: [Demonstrative]
+- hanzi: 齐
+  meaning: together
+  reading: cěi
+- hanzi: 齐家
+  meaning: everyone, everybody
+  reading: cěi gá
+- hanzi: 屋下 / 屋家
+  meaning: house, home
+  reading: ǔk há (but I always realised it as "ǔk ká")
 
