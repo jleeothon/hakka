@@ -4,7 +4,7 @@
   "description": "Description of Zhongshan Hakka",
   "main": "index.js",
   "scripts": {
-    "test": "ajv --all-errors -s schema.json -d word-list.yaml",
+    "test": "bin/validate-jsonschema.js < word-list.yaml",
     "sort-and-replace": "bin/sort-and-replace.sh"
   },
   "repository": {
