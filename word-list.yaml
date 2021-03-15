@@ -1,3 +1,11 @@
+- hanzi: 阿叔
+  reading: á sǔk
+  meaning: uncle i.e. father's younger brother
+  tags:
+    - Family
+- hanzi: 阿姨
+  reading: á yǐ
+  meaning: aunt i.e. mother's younger sister
 - hanzi: 矮瓜
   reading: ái gá
   meaning: aubergine (Malaysia); 茄 is preferred
@@ -53,9 +61,18 @@
 - hanzi: 玻璃生菜
   reading: bǒ lǐ sáng cōi
   meaning: iceberg lettuce
+- hanzi: 步
+  reading: bū
+  meaning: step
+  see:
+    - 第一步
+    - 下一步
 - hanzi: 不过
   reading: bǔ gō
   meaning: but (uncommon)
+- hanzi: (波?)碌
+  reading: bû lǔk
+  meaning: pomelo
 - hanzi: 尋日
   reading: cám ñǐt
   meaning: yesterday
@@ -111,6 +128,9 @@
   tags:
     - Time
   example: 从来没食过虾 (cǔŋ lǒi mǎu sīt gō há) "never eaten shrimps"
+- hanzi: 从...开始
+  reading: cǔŋ... hói cî
+  meaning: since e.g. ⟨从2003年开始...⟩
 - hanzi: 出年
   reading: cǔt ñěn
   meaning: next year
@@ -132,15 +152,15 @@
 - hanzi: 顶高
   reading: dâŋ gáu
   meaning: upstairs, above, on top
-- hanzi: 得意
-  reading: dět yī
-  meaning: interesting; cute
 - hanzi: 登记
   reading: dên gī
   meaning: register
 - hanzi: 灯笼椒
   reading: dén lǔng ziáu
   meaning: bell peper
+- hanzi: 得意
+  reading: dět yī
+  meaning: interesting; cute
 - hanzi: 鵰仔
   reading: diáu zêi
   meaning: bird
@@ -187,6 +207,9 @@
 - hanzi: 封国
   reading: fúŋ gǒk
   meaning: close the country
+- hanzi: 风险
+  reading: fúŋ hiâm
+  meaning: risk
 - hanzi: 封城
   reading: fúŋ sǎŋ
   meaning: close the city
@@ -300,12 +323,12 @@
 - hanzi: 古老
   reading: gû lâu
   meaning: ancient, old-fashioned
-- hanzi: 公寓
-  reading: gúŋ yí
-  meaning: apartment (uncommon)
 - hanzi: 工厂
   reading: gúŋ côŋ
   meaning: factory
+- hanzi: 公寓
+  reading: gúŋ yí
+  meaning: apartment (uncommon)
 - hanzi: 下 (1)
   reading: há
   meaning: down, downwards, to come down
@@ -318,6 +341,11 @@
   meaning: next year (uncommon)
   tags:
     - Time
+- hanzi: 下一步
+  reading: hā yǐt bū
+  meaning: next i.e. nextly
+  tags:
+    - Adverb
 - hanzi: 还系
   reading: hǎn hēi
   meaning: or (used in questions)
@@ -354,6 +382,9 @@
 - hanzi: 可能
   reading: hô lěn
   meaning: maybe
+- hanzi: 开始
+  reading: hói cî
+  meaning: start
 - hanzi: 亢床
   reading: hōŋ chǒŋ
   meaning: to get up (in the morning)
@@ -391,6 +422,11 @@
     - Time
 - reading: kǒ kǒ tiǎo
   meaning: snore (colloquial)
+- hanzi: 哪人
+  reading: lā ñǐn
+  meaning: who
+  tags:
+    - Pronoun
 - hanzi: 冷冻
   reading: láng dūng
   meaning: frozen
@@ -400,6 +436,12 @@
 - hanzi: 闹钟
   reading: lāu zúŋ
   meaning: alarm
+- hanzi: 楼下
+  reading: lěu hā
+  meaning: downstairs
+- hanzi: 楼上
+  reading: lěu sōŋ
+  meaning: upstairs
 - hanzi: 礼拜
   reading: lí bāi
   meaning: week
@@ -429,6 +471,9 @@
 - hanzi: 礼貌
   reading: lî māu (or lí māu?)
   meaning: courtesy, politeness e.g. "有礼貌 / 冇礼貌" _to be polite or impolite"
+- hanzi: 例子
+  reading: lī zǐ̵
+  meaning: example
 - hanzi: 另外
   reading: līng ngōi
   meaning: another
@@ -513,6 +558,9 @@
   meaning: Myanmar
   tags:
     - Geography
+- hanzi: 秒
+  reading: miāu
+  meaning: second (counting word) e.g. ⟨一秒⟩ (yǐt miāu) "one second"
 - hanzi: 明年
   reading: mǐŋ ñěn
   meaning: next year (uncommon)
@@ -633,6 +681,10 @@
 - hanzi: 鼻鼾
   reading: pī hǒn
   meaning: snore
+- hanzi: 病例
+  reading: piāŋ lī
+  meaning: (medical) case e.g. ⟨柏林病例少过巴黎⟩ (pǎk lǐm piāŋ lī sâu gō bá lǎi) "There
+    less (e.g. infection) cases in Berlin than in Paris"
 - hanzi: 平时
   reading: pǐn sǐ
   meaning: usually
@@ -658,16 +710,16 @@
 - hanzi: 诚意
   reading: sǎng yī
   meaning: sincerity
-- hanzi: 成日
-  reading: sǎŋ ñǐt
-  meaning: often, always
-  tags:
-    - Time
 - hanzi: 省
   reading: sáŋ
   meaning: province
   tags:
     - Geography
+- hanzi: 成日
+  reading: sǎŋ ñǐt
+  meaning: often, always
+  tags:
+    - Time
 - hanzi: 城市
   reading: sǎŋ sǐ
   meaning: city
@@ -724,11 +776,17 @@
 - hanzi: 十字车
   reading: sīp zī cá
   meaning: ambulance (uncommon)
+- hanzi: 识
+  reading: sǐt
+  meaning: to know something, to get to know someone
 - hanzi: 首尔
   reading: siû nî
   meaning: Seoul
   tags:
     - Geography
+- hanzi: 首先
+  reading: siú sén
+  meaning: firstly
 - hanzi: 锁匙
   reading: sô sǐ
   meaning: key
@@ -776,6 +834,17 @@
 - hanzi: 宿舍
   reading: sǔk siā
   meaning: dormitory
+- hanzi: 大姑
+  reading: tāi gú
+  meaning: aunt i.e. father's older sister
+- hanzi: 大舅
+  reading: tāi kiú
+  meaning: uncle i.e. father's older brother
+  tags:
+    - Family
+- hanzi: 大姨
+  reading: tāi yǐ
+  meaning: aunt i.e. mother's older sister
 - hanzi: 邓丽君
   reading: těn lēi giūn
   meaning: Teresa Teng
@@ -788,12 +857,23 @@
   tags:
     - Food
     - Plants
+- hanzi: 第一步
+  reading: tī yǐt bū
+  meaning: the first step, firstly
+  tags:
+    - Adverb
+- hanzi: 提早
+  reading: tǐ zâu
+  meaning: to do something in advance, to do something before planned
 - hanzi: 地主
   reading: tī zú
   meaning: owner of the plot of land
 - hanzi: 同埋
   reading: tǔng mǎi
   meaning: and
+- hanzi: 同时，同时间
+  reading: tǔng sǐ, tǔng sǐ gān
+  meaning: at the same time
 - hanzi: 通常
   reading: túŋsǒŋ
   meaning: usually
@@ -808,6 +888,9 @@
 - hanzi: 或者
   reading: vāk ziâ
   meaning: maybe
+- hanzi: 挖
+  reading: vǎt
+  meaning: remove
 - hanzi: 或者
   reading: wāg jiâ
   meaning: or, maybe
@@ -862,6 +945,15 @@
   tags:
     - Food
     - Plants
+- hanzi: 延迟
+  reading: yěn cǐ
+  meaning: to postpone, to delay
+- hanzi: 延长
+  reading: yěn cǒŋ
+  meaning: to extend
+- hanzi: 姨丈
+  reading: yǐ cóŋ
+  meaning: uncle i.e. mother's younger/older sister's husband
 - hanzi: 意见
   reading: yī gēn
   meaning: opinion
@@ -922,6 +1014,10 @@
 - hanzi: 姿势
   reading: zí (zi̵) sēi
   meaning: posture, 姿势好， 姿势唔好
+- hanzi: 之后
+  reading: zí̵ hêu
+  meaning: later, after that e.g. ⟨食饭之后去看电视⟩ (sīt fān zí̵ hêu hôn tên sî) "watch
+    TV after eating"
 - hanzi: 自由
   reading: zī yǔ
   meaning: freedom
@@ -951,11 +1047,28 @@
 - hanzi: 转
   reading: zôn
   meaning: to return
+- hanzi: 转
+  reading: zôn
+  meaning: to return
+  see:
+    - 转来，转去
+- hanzi: 转去
+  reading: zôn hī
+  meaning: to return, to go back to (usually implies not towards the speaker,
+    otherwise 转来 is preferred)
+- hanzi: 转来
+  reading: zôn lǒi
+  meaning: to return, to come back (usually implies in the direction of the speaker)
+  see:
+    - 转
 - hanzi: 猪
   reading: zú
   meaning: pig
   tags:
     - Animals
+- hanzi: 最后
+  reading: zūi hēu
+  meaning: finally, lastly
 - hanzi: 准
   reading: zún
   meaning: accurate
@@ -970,105 +1083,3 @@
   meaning: China
   tags:
     - Geography
-
-- hanzi: 从...开始
-  reading: cǔŋ... hói cî
-  meaning: since e.g. ⟨从2003年开始...⟩ 
-- hanzi: 开始
-  reading: hói cî
-  meaning: start
-- hanzi: 识
-  reading: sǐt
-  meaning: to know something, to get to know someone
-- hanzi: 阿叔
-  reading: á sǔk
-  meaning: uncle i.e. father's younger brother
-  tags: [Family]
-- hanzi: 大舅
-  reading: tāi kiú
-  meaning: uncle i.e. father's older brother
-  tags: [Family]
-- hanzi: 大姑
-  reading: tāi gú
-  meaning: aunt i.e. father's older sister
-- hanzi: 大姨
-  reading: tāi yǐ
-  meaning: aunt i.e. mother's older sister
-- hanzi: 阿姨
-  reading: á yǐ
-  meaning: aunt i.e. mother's younger sister
-- hanzi: 姨丈
-  reading: yǐ cóŋ
-  meaning: uncle i.e. mother's younger/older sister's husband
-- hanzi: 哪人
-  reading: lā ñǐn
-  meaning: who
-  tags: [Pronoun]
-- hanzi: 例子
-  reading: lī zǐ̵
-  meaning: example
-- hanzi: 病例
-  reading: piāŋ lī
-  meaning: (medical) case e.g. ⟨柏林病例少过巴黎⟩ (pǎk lǐm piāŋ lī sâu gō bá lǎi) "There less (e.g. infection) cases in Berlin than in Paris"
-- hanzi: 风险
-  reading: fúŋ hiâm
-  meaning: risk
-- hanzi: (波?)碌
-  reading: bû lǔk
-  meaning: pomelo
-- hanzi: 挖
-  reading: vǎt
-  meaning: remove
-- hanzi: 之后
-  meaning: later, after that e.g. ⟨食饭之后去看电视⟩ (sīt fān zí̵ hêu hôn tên sî) "watch TV after eating"
-  reading: zí̵ hêu
-- hanzi: 首先
-  reading: siú sén
-  meaning: firstly
-- hanzi: 步
-  reading: bū
-  meaning: step
-  see: [第一步, 下一步]
-- hanzi: 第一步
-  reading: tī yǐt bū
-  meanig: the first step, firstly
-  tags: [Adverb]
-- hanzi: 下一步
-  reading: hā yǐt bū
-  meaning: next i.e. nextly
-  tags: [Adverb]
-- hanzi: 最后
-  reading: zūi hēu
-  meaning: finally, lastly
-- hanzi: 秒
-  reading: miāu
-  meaning: second (counting word) e.g. ⟨一秒⟩ (yǐt miāu) "one second"
-- hanzi: 同时，同时间
-  reading: tǔng sǐ, tǔng sǐ gān
-  meaning: at the same time
-- hanzi: 转来
-  reading: zôn lǒi
-  meaning: to return, to come back (usually implies in the direction of the speaker)
-  see: [转]
-- hanzi: 转去
-  reading: zôn hī
-  meaning: to return, to go back to (usually implies not towards the speaker, otherwise 转来 is preferred)
-- hanzi: 转
-  reading: zôn
-  meaning: to return
-  see: [转来，转去]
-- hanzi: 延迟
-  meaning: to postpone, to delay
-  reading: yěn cǐ
-- hanzi: 提早
-  reading: tǐ zâu
-  meaning: to do something in advance, to do something before planned
-- hanzi: 延长
-  reading: yěn cǒŋ
-  meaning: to extend
-- hanzi: 楼下
-  reading: lěu hā
-  meaning: downstairs
-- hanzi: 楼上
-  reading: lěu sōŋ
-  meaning: upstairs
