@@ -63,7 +63,8 @@
   meaning: iceberg lettuce
 - hanzi: 步
   reading: bū
-  meaning: step
+  meaning:
+    step e.g. ⟨你行先一步⟩ (ñǐ hǎŋ sén yǐt bū) "You take one step forward"
   see:
     - 第一步
     - 下一步
@@ -106,12 +107,18 @@
   meaning: Chaozhou
   tags:
     - Geography
+- hanzi: 似
+  reading: cī
+  meaning: similar
 - hanzi: 匙羹
   reading: cǐ gáŋ
   meaning: spool
 - hanzi: 尋事
   reading: cǐm sī̵
   meaning: look for trouble
+- hanzi: 情况
+  reading: cǐn fōŋ
+  meaning: situation
 - hanzi: 曾经
   reading: cǐn gín
   meaning: used to
@@ -122,6 +129,11 @@
 - hanzi: 丑闻
   reading: ciū mǔn
   meaning: scandal
+- hanzi: 才
+  reading: cǒi
+  meaning: only then (not common)
+  see:
+    - zāng
 - hanzi: 从来
   reading: cǔŋ lǒi
   meaning: never (used with negative verb)
@@ -152,6 +164,11 @@
 - hanzi: 顶高
   reading: dâŋ gáu
   meaning: upstairs, above, on top
+- reading: dên
+  meaning: progressive aspect marker
+  tags:
+    - Particle
+  example: (ŋǎi sīt dên fān) "I am eating"
 - hanzi: 登记
   reading: dên gī
   meaning: register
@@ -226,7 +243,8 @@
   meaning: increase rent e.g. ŋá fǒŋ zú yū gá hói
 - hanzi: 解释
   reading: gâi sǐt
-  meaning: to explain e.g. ⟨我解释该只事畀你⟩ (ŋǎi gâi sǐt gói zǎk sī bí ñǐ) "I explain
+  meaning:
+    to explain e.g. ⟨我解释该只事畀你⟩ (ŋǎi gâi sǐt gói zǎk sī bí ñǐ) "I explain
     this to you"
 - hanzi: 隔离
   reading: gǎk lǐ
@@ -269,11 +287,19 @@
   reading: gî giû……yǐt bâi / gî giû……yǐt cī
   meaning: how often
   example: “你几久去韩国？”“我半年去一摆。每三只月去一摆”。(多久 in Mandarin)
+- hanzi: 惊
+  reading: giáng
+  meaning: to be afraid
 - hanzi: 今日
   reading: gím ñǐt _or_ gí ñǐt
   meaning: today
   tags:
     - Time
+- reading: gîn
+  meaning: progressive aspect marker
+  tags:
+    - Particle
+  example: (ŋǎi sīt gîn fān) "I am eating"
 - hanzi: 今年
   reading: gín ñěn
   meaning: this year
@@ -346,9 +372,17 @@
   meaning: next i.e. nextly
   tags:
     - Adverb
+- hanzi: 下一代
+  reading: hā yǐt tôi
+  meaning: next generation
 - hanzi: 还系
   reading: hǎn hēi
   meaning: or (used in questions)
+- hanzi: 还是
+  reading: hǎn sí
+  meaning: or (option 1 or option2)
+  tags:
+    - Conjunction
 - hanzi: 好
   reading: hâu
   meaning: very, good e.g. 好新 very new, 好好 very good
@@ -470,7 +504,8 @@
   meaning: Monday
 - hanzi: 礼貌
   reading: lî māu (or lí māu?)
-  meaning: courtesy, politeness e.g. "有礼貌 / 冇礼貌" _to be polite or impolite"
+  meaning:
+    courtesy, politeness e.g. "有礼貌 / 冇礼貌" _to be polite or impolite"
 - hanzi: 例子
   reading: lī zǐ̵
   meaning: example
@@ -644,6 +679,9 @@
 - hanzi: 外老
   reading: ŋōi lâu
   meaning: immigrant
+- hanzi: 外甥
+  reading: ŋôi sán
+  meaning: nephew i.e. sister's son
 - hanzi: 爱
   reading: ōi
   meaning: to love, to have to
@@ -677,14 +715,17 @@
   meaning: prejudice, bias
 - hanzi: 被
   reading: pí
-  meaning: blanket, duvet
+  meaning:
+    blanket, duvet (Note that as a passive marker, it has a different
+    pronunciation)
 - hanzi: 鼻鼾
   reading: pī hǒn
   meaning: snore
 - hanzi: 病例
   reading: piāŋ lī
-  meaning: (medical) case e.g. ⟨柏林病例少过巴黎⟩ (pǎk lǐm piāŋ lī sâu gō bá lǎi) "There
-    less (e.g. infection) cases in Berlin than in Paris"
+  meaning:
+    (medical) case e.g. ⟨柏林病例少过巴黎⟩ (pǎk lǐm piāŋ lī sâu gō bá lǎi)
+    "There less (e.g. infection) cases in Berlin than in Paris"
 - hanzi: 平时
   reading: pǐn sǐ
   meaning: usually
@@ -721,7 +762,7 @@
   tags:
     - Time
 - hanzi: 城市
-  reading: sǎŋ sǐ
+  reading: sǎŋ sī̵, sǎŋ sǐ̵?
   meaning: city
   tags:
     - Geography
@@ -753,6 +794,12 @@
 - hanzi: 小区 hood
   reading: siâu kí
   meaning: neighbour
+- hanzi: 消毒
+  reading: siâu tūk
+  meaning: desinfectant, antibiotic
+- hanzi: 申请
+  reading: sín ciâng
+  meaning: apply (e.g. apply for an exam); application
 - hanzi: 星期
   reading: sín kǐ
   meaning: week (less common)
@@ -851,6 +898,9 @@
 - hanzi: 特别
   reading: tēt bět
   meaning: especially
+- hanzi: 地方
+  reading: tī fóng
+  meaning: place, physical space
 - hanzi: 地豆
   reading: tī tēu
   meaning: peanut
@@ -888,9 +938,6 @@
 - hanzi: 或者
   reading: vāk ziâ
   meaning: maybe
-- hanzi: 挖
-  reading: vǎt
-  meaning: remove
 - hanzi: 或者
   reading: wāg jiâ
   meaning: or, maybe
@@ -1005,6 +1052,10 @@
     - Time
   see:
     - 啱先
+- reading: zāng
+  meaning: only then
+  see:
+    - zāng
 - hanzi: 照我来讲
   reading: zāu ngǎi (lǒi) gōng
   meaning: in my opinion
@@ -1016,7 +1067,8 @@
   meaning: posture, 姿势好， 姿势唔好
 - hanzi: 之后
   reading: zí̵ hêu
-  meaning: later, after that e.g. ⟨食饭之后去看电视⟩ (sīt fān zí̵ hêu hôn tên sî) "watch
+  meaning:
+    later, after that e.g. ⟨食饭之后去看电视⟩ (sīt fān zí̵ hêu hôn tên sî) "watch
     TV after eating"
 - hanzi: 自由
   reading: zī yǔ
@@ -1026,8 +1078,9 @@
   meaning: child
 - hanzi: 剪毛
   reading: ziên máu
-  meaning: to cut hair, to have a haircut e.g. ⟨佢剪我毛⟩ (gǐ ziên ŋá máu) "He/she
-    cuts my hair", ⟨我剪[开?]毛⟩ (ŋái jiên hói máu) "I already had a haircut"
+  meaning:
+    to cut hair, to have a haircut e.g. ⟨佢剪我毛⟩ (gǐ ziên ŋá máu) "He/she cuts
+    my hair", ⟨我剪[开?]毛⟩ (ŋái jiên hói máu) "I already had a haircut"
 - hanzi: 枕头
   reading: zîm těu
   meaning: pillow
@@ -1054,11 +1107,13 @@
     - 转来，转去
 - hanzi: 转去
   reading: zôn hī
-  meaning: to return, to go back to (usually implies not towards the speaker,
-    otherwise 转来 is preferred)
+  meaning:
+    to return, to go back to (usually implies not towards the speaker, otherwise
+    转来 is preferred)
 - hanzi: 转来
   reading: zôn lǒi
-  meaning: to return, to come back (usually implies in the direction of the speaker)
+  meaning:
+    to return, to come back (usually implies in the direction of the speaker)
   see:
     - 转
 - hanzi: 猪
