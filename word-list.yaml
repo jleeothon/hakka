@@ -1,3 +1,8 @@
+- hanzi: 阿
+  reading: á
+  meaning: used in front of names of people (not only family)
+  tags:
+    - Particle
 - hanzi: 阿叔
   reading: á sǔk
   meaning: uncle i.e. father's younger brother
@@ -15,6 +20,13 @@
 - hanzi: 晏晝
   reading: ān ziū
   meaning: lunch, noon
+- hanzi: 巴士
+  reading: bá sǐ
+  meaning: bus
+  tags:
+    - Transportation
+  see:
+    - 大车
 - hanzi: 百
   reading: bǎk
   meaning: hundred
@@ -55,6 +67,12 @@
   meaning: border
   tags:
     - Geography
+- hanzi: 畀
+  reading: bí
+  meaning: to give, for
+  tags:
+    - Verb
+    - Coverb
 - hanzi: 笔
   reading: bǐt
   meaning: pencil or pen (counting word 支 zí)
@@ -98,6 +116,9 @@
   meaning: in a moment
   tags:
     - Time
+- hanzi: 前线人员
+  reading: cěn sēn ñǐn yěn
+  meaning: first line staff
 - reading: cēŋ gán
   meaning: soon
   tags:
@@ -107,6 +128,11 @@
   meaning: Chaozhou
   tags:
     - Geography
+- hanzi: 侄子
+  reading: chīt zî̵
+  meaning: nephew i.e. brother's son
+  tags:
+    - Family
 - hanzi: 似
   reading: cī
   meaning: similar
@@ -209,6 +235,9 @@
 - hanzi: 法律
   reading: fǎt lūt
   meaning: law
+- hanzi: 课程
+  reading: fō cǐng
+  meaning: course
 - hanzi: 灰色
   reading: fói sět
   meaning: gray
@@ -305,6 +334,10 @@
   meaning: this year
   tags:
     - Time
+- hanzi: 经济
+  reading: gîn zī
+  meaning:
+    economy e.g. ⟨整到经济唔好⟩ (jîn dâu gîn zī m̌ hâu) "do bad to the economy"
 - hanzi: 緊張
   reading: gîn zóng
   meaning: nervous
@@ -419,6 +452,9 @@
 - hanzi: 开始
   reading: hói cî
   meaning: start
+- hanzi: 海关
+  reading: hôi gán
+  meaning: customs
 - hanzi: 亢床
   reading: hōŋ chǒŋ
   meaning: to get up (in the morning)
@@ -467,6 +503,9 @@
 - hanzi: 辣椒
   reading: lāt ziáu
   meaning: chili pepper
+- hanzi: 老人院
+  reading: lâu ñǐn yēn
+  meaning: nursing home
 - hanzi: 闹钟
   reading: lāu zúŋ
   meaning: alarm
@@ -502,6 +541,12 @@
 - hanzi: 礼拜一
   reading: lí bāi yǐt
   meaning: Monday
+- hanzi: 菱角
+  reading: lǐ gǒk
+  meaning: water caltrop
+  tags:
+    - Plants
+    - Food
 - hanzi: 礼貌
   reading: lî māu (or lí māu?)
   meaning:
@@ -515,6 +560,20 @@
 - hanzi: 量词
   reading: liōŋ cī
   meaning: classifier, counting word
+- hanzi: 落
+  reading: lōk
+  meaning: to go in, into
+  tags:
+    - Verb
+    - Coverb
+- hanzi: 落背
+  reading: lōk bōi
+  meaning:
+    inside, among e.g. (ngǎi tǔng ngá liông zǎk á jiâ lōk bōi) "amongst me and
+    my sisters"
+  tags:
+    - Preposition
+    - Adverb
 - hanzi: 亂
   reading: lōn
   meaning: messy
@@ -588,6 +647,9 @@
   meaning: not long ago, just now
   tags:
     - Time
+- hanzi: 冇效
+  reading: mǎu hâu
+  meaning: ineffective
 - hanzi: 缅甸
   reading: mēn dēn
   meaning: Myanmar
@@ -606,6 +668,9 @@
   meaning: tomorrow
   tags:
     - Time
+- hanzi: 摩天轮
+  reading: mó tén lǔn
+  meaning: ferris wheel
 - hanzi: 霉
   reading: mǒi
   meaning: to become moldy, mildewy
@@ -643,6 +708,11 @@
   meaning: date
   tags:
     - Time
+- hanzi: 日月
+  reading: ñǐt ñēt
+  meaning: date i.e. calendar date
+  tags:
+    - Time
 - hanzi: 廿
   reading: nyīp
   meaning: twenty
@@ -663,6 +733,9 @@
   meaning: fish
   tags:
     - Animals
+- hanzi: 牙煙
+  reading: ŋǎ yén
+  meaning: dangerous
 - hanzi: 啱
   reading: ŋám
   meaning: correct, correctly
@@ -718,6 +791,11 @@
   meaning:
     blanket, duvet (Note that as a passive marker, it has a different
     pronunciation)
+- hanzi: 批
+  reading: pí
+  meaning:
+    first batch (counting word by itself) e.g. ⟨第一批⟩ (tī yǐt pí) "first
+    batch"
 - hanzi: 鼻鼾
   reading: pī hǒn
   meaning: snore
@@ -785,9 +863,17 @@
   meaning: time
   tags:
     - Time
+- hanzi: 四脚蛇
+  reading: sī giǒk sǎ
+  meaning: lizard
+  tags:
+    - Animals
 - hanzi: 视频
   reading: sī pǐn
   meaning: video
+- hanzi: 示威
+  reading: sī̵ wúi
+  meaning: demonstration
 - hanzi: 锡纸
   reading: siǎk jǐ
   meaning: aluminium paper
@@ -826,6 +912,11 @@
 - hanzi: 识
   reading: sǐt
   meaning: to know something, to get to know someone
+- hanzi: 舌嫲
+  reading: sīt mǎ
+  meaning: tongue
+  tags:
+    - Body
 - hanzi: 首尔
   reading: siû nî
   meaning: Seoul
@@ -881,6 +972,13 @@
 - hanzi: 宿舍
   reading: sǔk siā
   meaning: dormitory
+- hanzi: 大车
+  reading: tāi cá
+  meaning: bus
+  tags:
+    - Transportation
+  see:
+    - 巴士
 - hanzi: 大姑
   reading: tāi gú
   meaning: aunt i.e. father's older sister
@@ -1020,6 +1118,9 @@
   meaning: one
   tags:
     - Numbers
+- hanzi: 一边A一边B
+  reading: yǐt bén… yǐt bén
+  meaning: to do A at the same time as B
 - hanzi: 一齊
   reading: yǐt cěi
   meaning: together
@@ -1034,6 +1135,9 @@
   tags:
     - Food
     - Plants
+- hanzi: 有效
+  reading: yú hâu
+  meaning: effective
 - hanzi: 有时
   reading: yú sǐ
   meaning: sometimes
@@ -1097,6 +1201,9 @@
   meaning: state
   tags:
     - Geography
+- hanzi: 酒精
+  reading: ziû gín
+  meaning: alcohol, ethanol
 - hanzi: 转
   reading: zôn
   meaning: to return
